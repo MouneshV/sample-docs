@@ -1,0 +1,3617 @@
+An overview
+July 2019
+The school
+ education
+ system in India
+An overview
+July 2019
+The school
+ education
+ system in India
+Report prepared by Jason Anderson and Amy Lightfoot
+ISBN 978-0-86355-944-0
+© British Council 2019
+17 Kasturba Gandhi Marg
+New Delhi 110001
+India
+www.britishcouncil.org
+Acknowledgements
+Acknowledgements
+The authors would like to thank the following
+individuals for their role in reviewing the report:
+Ashwath Bharath, Deepali Dharmaraj, Jenny Elliott,
+Jayshree Oza, Ashok Pandey, Gauri Puranik and
+Savita Venkat. They would also like to recognise
+Rittika Chanda Parruck and Arijit Ghosh for their
+work on an earlier report, on which this one is
+partly based (see Parruck and Ghosh, 2014).
+Contents 1
+Contents
+Foreword .............................................................................................................................................................................................................3
+Abbreviations....................................................................................................................................................................................................4
+Introduction.......................................................................................................................................................................................................6
+India demographics.......................................................................................................................................................................................8
+Overview of the K-12 sector....................................................................................................................................................................12
+Schooling at different levels...................................................................................................................................................................16
+Typical school weeks and years.......................................................................................................................................................16
+Grades and promotion .........................................................................................................................................................................16
+Syllabus, subjects and assessment at different grades ........................................................................................................17
+Early childhood education..................................................................................................................................................................18
+Primary education..................................................................................................................................................................................18
+Upper primary education....................................................................................................................................................................19
+(Lower) secondary education...........................................................................................................................................................19
+Higher secondary education ............................................................................................................................................................20
+School ownership and management..................................................................................................................................................21
+Government educational institutions ............................................................................................................................................23
+Private aided (or government-aided) institutions ....................................................................................................................23
+Local body institutions .........................................................................................................................................................................23
+Private unaided institutions ...............................................................................................................................................................23
+The increase and impact of private school education in India ..........................................................................................24
+School Management Committees ...................................................................................................................................................24
+Languages in education in India.......................................................................................................................................................... 26
+Language diversity and the three-language formula.............................................................................................................26
+The rise of English medium instruction ........................................................................................................................................27
+Translingual practices in the classroom.......................................................................................................................................27
+Technology in education in India ........................................................................................................................................................ 28
+Teacher education and evaluation in India ................................................................................................................................... 30
+Pre-service teacher training and qualifications........................................................................................................................30
+In-service teacher development and support...........................................................................................................................31
+Online resources for teacher support...........................................................................................................................................32
+Teacher evaluation.................................................................................................................................................................................33
+Indian education policy: a timeline.................................................................................................................................................... 34
+2 Contents
+Indian government education initiatives........................................................................................................................................ 36
+India’s commitment to UN development goals..........................................................................................................................36
+Sarva Shiksha Abhiyan and Rashtriya Madhyamik Shiksha Abhiyan................................................................................36
+Rashtriya Avishkar Abhiyan................................................................................................................................................................37
+Samagra Shiksha Abhiyan...................................................................................................................................................................37
+National Education Policy 2019........................................................................................................................................................37
+Other recent initiatives.........................................................................................................................................................................37
+Apex educational organisations in India........................................................................................................................................ 38
+National Council of Educational Research and Training........................................................................................................40
+Regional Institutes of Education ......................................................................................................................................................41
+Central Institute of Educational Technology...............................................................................................................................41
+National Council for Teacher Education ......................................................................................................................................42
+National Institute of Educational Planning and Administration..........................................................................................42
+Educational boards in India.................................................................................................................................................................... 43
+National boards .......................................................................................................................................................................................43
+State government boards.......................................................................................................................................................43
+The Central Board of Secondary Education...................................................................................................................43
+The Council of Indian School Certificate Examinations.............................................................................................43
+National Institute of Open Schooling.................................................................................................................................43
+International boards ..............................................................................................................................................................................44
+International Baccalaureate Organisation.......................................................................................................................44
+Cambridge Assessment International Education.........................................................................................................44
+The Council of Boards of School Education................................................................................................................................44
+Looking to the future................................................................................................................................................................................. 45
+References....................................................................................................................................................................................................... 46
+Appendices...................................................................................................................................................................................................... 49
+Appendix 1: Comparative study of CBSE, CISCE, IB and CIE education boards in India..........................................49
+Appendix 2: COBSE member boards .............................................................................................................................................52
+Foreword 3
+Foreword
+The school education system in India is the largest
+in the world, catering to over 260 million young
+people each year. Jointly managed at the national
+and state levels, many initiatives have been
+undertaken to improve access to quality schooling
+– particularly for those who are economically or
+socially disadvantaged. With thriving competition
+from private schools, there have been clear efforts
+within the government sector to offer parents and
+children what they most need and want: quality
+education leading to improved life opportunities.
+This report, five years after our first overview of
+the education system in India, is being published
+at a time when India appears to be at a significant
+crossroads with its approach to education policy
+and its implementation. Since the previous report
+in 2014, significant changes have been made to
+address issues of quality and equity of provision,
+for example with the implementation of the Right
+to Education Act and the widespread adoption of
+new technologies and approaches to improve
+teachers’ and learners’ access to resources and
+content for learning.
+The draft National Education Policy released in May
+2019 further demonstrates an ongoing commitment
+to quality provision, revising a policy which was last
+updated in 1992. The draft includes a strong focus
+on teachers’ continuing professional development
+and a push towards greater access for mothertongue-based instruction – both areas that the
+British Council understands as fundamental to
+educational success.
+In our 70 years in India, we have been privileged
+to work with hundreds of thousands of teachers,
+teacher educators, school leaders, administrators
+and policymakers, bringing together expert
+practitioners from India and the United Kingdom to
+support multiple programmes and initiatives seeking
+to improve educational outcomes. We are looking
+forward to continuing to build these connections to
+enable mutual learning and development, benefiting
+millions of young people from across the country.
+This report will provide a useful overview of this
+complex system for those who are interested
+to learn about the structure, mechanisms and
+policies that ultimately drive both individual
+and national development.
+Barbara Wickham obe
+Director India
+British Council
+4 Abbreviations
+Abbreviations
+ABL Activity-based learning
+ASER Annual Status of Education Report
+ADEPTS Advancement of Educational Performance through Teacher Support
+AINET All India Network of English Teachers
+AISSCE All India Senior School Certificate Examination
+AISSE All India Secondary School Examination
+BEd Bachelor of Education
+CAIE Cambridge Assessment International Education
+CBSE Central Board of Secondary Education
+CCE Continuous and Comprehensive Evaluation
+CIET Central Institute of Educational Technology
+CISCE Council of Indian School Certificate Examinations
+COBSE Council of Boards of School Education
+DIET District Institute of Education and Training
+ECE Early childhood education
+ELTAI English Language Teachers Association of India
+EM English medium
+EMI English medium instruction
+GDP Gross Domestic Product
+HM Hindi medium
+IB International Baccalaureate
+IBO International Baccalaureate Organisation
+ICSE Indian School Certificate Examinations
+ICT Information and Communications Technology
+IGCSE International General Certificate of Secondary Education
+INSET In-service teacher training
+MEd Master of Education
+MHRD Ministry of Human Resource Development
+MOI Medium of instruction
+NCERT National Council of Educational Research and Training
+NCF National Curriculum Framework
+NCTE National Council for Teacher Education
+NDP No Detention Policy (under RTE)
+NEP National Education Policy
+NGO Non-governmental organisation
+NIEPA National Institute of Educational Policy and Administration (also NUEPA)
+NIOS National Institute of Open Schooling
+NPE National Policy on Education
+Abbreviations 5
+NSSO National Sample Survey Office
+NUEPA National University of Educational Policy and Administration (also NIEPA)
+PINDICS Performance Indicators (for teacher evaluation)
+RMSA Rashtriya Madhyamik Shiksha Abhiyan
+RTE Right of Children to Free and Compulsory Education
+SC Scheduled Caste
+SCERT State Council for Educational Research and Training
+SMC School Management Committee
+SSA Sarva Shiksha Abhiyan
+SSC Secondary School (Completion) Certificate
+ST Scheduled Tribe
+UNESCO United Nations Educational, Scientific and Cultural Organisation
+UNICEF United Nations Children’s Fund
+6 The school education system in India
+Introduction
+India, with over 1.5 million schools, over 8.7 million
+primary and secondary teachers and more than
+260 million enrolments, 1 is home to the largest
+and most complex education system in the world.
+This report provides an overview of this system,
+including the following:
+● key facts and figures on the school sector
+● overviews of schooling at each level
+● language in education policy and practice
+● teacher education and evaluation
+● a history of recent education policies
+● main government initiatives since independence
+● details of the major national and international
+boards of school education.
+It also provides discussion of recent successes
+and ongoing challenges in the education sector,
+making it of use to readers seeking both to
+understand the development of education in India
+since independence and its future trajectory.
+Immediately after independence from British rule
+in 1947, the Department of Education was set up
+under the Ministry of Human Resource Development
+(MHRD), with a mandate to increase both access
+to education and quality, leading to the first National
+Policy on Education in 1968. Initial expansion of the
+education sector was limited by India’s economic
+growth but continued steadily until the end of the
+20th century. Since committing to the Millennium
+Development Goals in 2000, India has made great
+progress towards achieving universal primary
+education. The World Bank reports that between
+2000 and 2017, elementary school enrolment
+increased by more than 33 million: from 156.6 million
+in 2000–01 to 189.9 million in 2017–18. 2 While
+achievement varies greatly between India’s
+29 states and seven union territories, two-thirds
+of these have claimed to have achieved universal
+primary enrolment.
+Two prominent initiatives of the Indian government,
+Sarva Shiksha Abhiyan (SSA – ‘Education for All
+Campaign’ in Hindi) in 2001 and the Right of
+Children to Free and Compulsory Education (RTE)
+Act, 2009, have promoted greater foci on issues
+of access, inclusivity and quality in education. The
+mean years of schooling of the working population
+(those over 25 years old) increased from 4.19 years
+in 2000 to 6.4 years in 2017. 3 India has also
+committed to the achievement of the UN Sustainable
+Development Goals, with the initiation of several
+further large-scale and ambitious programmes
+in recent years to help achieve these objectives.
+At the time of writing, the education system in India
+is at a significant crossroads. A draft version of the
+revised National Education Policy (NEP – Ministry
+of Human Resource Development, 2019) has been
+released for comment, with expectations that it will
+take effect later in 2019−20. If fully implemented,
+the proposed policy will change the governance
+structure of the education system, revise the RTE
+Act (Ministry of Law and Justice, 2009) and impact
+on several other key areas. In addition, the National
+Council of Educational Research and Training
+(NCERT) has announced a comprehensive review
+of the 2005 National Curriculum Framework (NCF) –
+another initiative which has the potential to bring
+considerable changes to practices in schools and
+classrooms across the country. As far as possible,
+as well as providing an overview of the system as
+currently enacted, this report aims to highlight where
+proposed changes may affect current provision.
+1 http://mospi.nic.in/
+2 See https://www.worldbank.org/en/country/india/overview#3 and https://databank.worldbank.org/data/reports.aspx?source=2&country=IND#
+3 http://hdr.undp.org/sites/all/themes/hdr_theme/country-notes/IND.pdf
+The school education system in India 7
+This report also discusses some of the challenges
+faced by the Indian education system today. While
+mean years of schooling has greatly improved, this
+still lags behind those of other emerging market
+economies such as China (7.8 years in 2017) and
+Brazil (7.8 years in 2017). 4 While pupil retention rates
+have improved over the last ten years in both urban
+and rural areas, 5 dropout rates from government
+schools remain comparatively high (12.3 per cent
+at primary level in 20166) and enrolment gaps from
+primary to secondary are matters of concern. While
+official and independent statistics vary, survey data
+from 2014 reported that over 50 per cent of ‘everenrolled persons’ did not continue their study
+beyond upper primary; the most common reason
+given for dropping out of school was engagement
+in economic activities for males and engagement
+in domestic activities for females. 7
+Disadvantaged groups continue to face greater
+challenges, 8 despite a number of government
+initiatives to reduce differences, with achievement
+levels lower and dropout rates higher 9 particularly
+for students from Scheduled Castes (SC) and
+Scheduled Tribes (ST) (two official indicators of
+disadvantaged status in India). 10 While official pupil–
+teacher ratios are improving (from 40:1 in 2000 to
+35:1 in 201611) these tend to fluctuate locally, leading
+to significant challenges in some contexts. Other
+challenges currently faced by the Indian school
+education system include a large urban–rural
+achievement gap, 12 the low school readiness of
+many primary learners, 13 a shortage of professionally
+trained teachers, 14 low learner proficiency in media
+of instruction 15 and overly ambitious curricula –
+a matter of particular concern in rural areas. 16 These
+challenges are compounded by the structure of the
+system itself, which involves both centralised and
+devolved elements, government, private and partly
+private initiatives that interact in complex ways,
+making it more of an organic, evolving ecosystem
+than a single, centrally managed operation.
+4 http://hdr.undp.org
+5 ASER (2019).
+6 http://data.uis.unesco.org
+7 www.icssrdataservice.in/datarepository/index.php/catalog/14
+8 www.ncert.nic.in/departments/nie/esd/pdf/NASSummary.pdf (2015 figures)
+9 https://www.thehindu.com/education/percentage-of-school-dropouts/article25909306.ece
+10 Scheduled Caste (SC) and Scheduled Tribe (ST) refer to groups of people who have been historically disadvantaged due to previous and existing social structures,
+as recognised by the Constitution of India. A third term, ‘Other Backward Castes’ (OBC) is also used to denote those who are also deemed to have been
+disadvantaged but who are not defined as such in the Constitution.
+11 https://data.worldbank.org
+12 www.ncert.nic.in/departments/nie/esd/pdf/NASSummary.pdf
+13 Bhattacharjea and Ramanujan (2019).
+14 https://www.business-standard.com/article/economy-policy/1-in-6-elementary-school-teachers-not-professionally-trained-in-india-119013100138_1.html
+15 Borah (2018).
+16 Banerji (2019).
+8 The school education system in India
+India demographics
+India’s population in 2020 is estimated at 1.38 billion,
+predicted to overtake China’s 1.42 billion in the near
+future. 17 However, due to the higher percentage of
+younger people, it already has the largest number
+of schools (over 1.5 million) and school-goers (over
+260 million):
+● 0–14 years: 26.6 per cent (male 194 million,
+female 174 million)
+● 15–24 years: 17.9 per cent (male 131 million,
+female 117 million)
+● 25–54 years: 41.1 per cent (male 294 million,
+female 275 million)
+● 55–64 years: 7.8 per cent (male 55 million,
+female 54 million)
+● 65 years and over: 6.6 per cent (male 43 million,
+female 47 million). 18
+While India is demographically one of the youngest
+countries in the world, evidence of declining birth
+rates 19 can be seen when the 0–9 age group
+(241 million) is compared with the 10–19 age group
+(252 million) – India today may therefore be at the
+peak of its demand for educational provision.
+According to 2011 census data, 20 Uttar Pradesh is
+the most populous state, accounting for 17 per cent
+of the country’s total population, followed by
+Maharashtra (nine per cent), Bihar (nine per cent)
+and West Bengal (eight per cent). The same census
+estimated the national literacy rate at 74 per cent,
+with Kerala highest (at 94 per cent) of the 20 largest
+states, followed by Delhi NCT (National Capital
+Territory – 86 per cent) and Maharashtra (82 per
+cent). The lowest literacy rate was reported in
+Bihar (64 per cent), one of several states with high
+rural population and low literacy rates, suggesting a
+correlation between these two factors (see Figure 4).
+These rates have increased significantly, by around
+9.5 per cent since the 2001 census, when national
+rates were reported at almost 65 per cent overall.
+17 https://population.un.org
+18 https://population.un.org
+19 https://ourworldindata.org/indias-population-growth-will-come-to-an-end
+20 http://censusindia.gov.in
+Figure 1: India’s changing age demographic (2020, thousands)
+Male Female
+ 6,966
+ 11,423
+ 18,822
+ 24,530
+ 30,009
+ 35,037
+ 40,536
+ 46,121
+ 53,117
+ 57,894
+ 61,287
+ 64,339
+ 66,495
+ 66,587
+ 63,321
+ 63,686
+
+ 8,000
+ 12,423
+ 19,061
+ 24,326
+ 29,306
+ 33,771
+ 38,618
+ 43,582
+ 49,631
+ 53,552
+ 55,512
+ 57,794
+ 59,473
+ 59,692
+ 56,898
+0-4 57,473
+5-9
+10-14
+15-19
+20-24
+25-29
+30-34
+35-39
+40-44
+45-49
+50-54
+55-59
+60-64
+65-69
+70-74
+75-79
+80-84
+85-89
+90-94
+95-99
+100+
+The school education system in India 9
+Figure 2: India’s 20 largest states by size (showing rural urban split): 2011 figures
+0 50 100
+(million)
+150 200
+Jammu and Kashmir
+Delhi (NCT)
+Haryana
+Chhattisgarh
+Punjab
+Assam
+Jharkhand
+Kerala
+Telangana
+Odisha
+Andhra Pradesh
+Gujarat
+Karnataka
+Rajasthan
+Tamil Nadu
+Madhya Pradesh
+West Bengal
+Bihar
+Maharashtra
+Uttar Pradesh
+Rural population Urban population
+10 The school education system in India
+Figure 3: Literacy rates by state in 2001 and 2011
+Literacy rate (%) – 2001 Census Literacy rate (%) – 2011 Census
+Literacy rate (%) – 2011 Census
+(average for India)
+Literacy rate (%) – 2001 Census
+(average for India)
+Bihar
+Telangana
+Arunachal Pradesh
+Rajasthan
+Andhra Pradesh
+Jharkhand
+Jammu and Kashmir
+Uttar Pradesh
+Madhya Pradesh
+Chhattisgarh
+Assam
+Odisha
+India
+Meghalaya
+Karnataka
+Haryana
+Punjab
+West Bengal
+Dadra and Nagar Haveli
+Gujarat
+Uttarakhand
+Manipur
+Nagaland
+Tamil Nadu
+Sikkim
+Maharashtra
+Himachal Pradesh
+Delhi
+Andaman and Nicobar Islands
+Chandigarh
+Daman and Diu
+Goa
+Tripura
+Lakshadweep
+Mizoram
+Kerala
+0 20 40 60 80 100
+The school education system in India 11
+Figure 4: Correlation between state literacy rates and percentage urban population 2011 (selected states highlighted)
+60 65 70 75 80
+Literary rate (%)
+% Urbam
+85 90 95 100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Bihar
+Telangana
+West Bengal
+Tamil Nadu
+Himachal Padesh
+Kerala
+Goa
+Delhi
+Uttar Pradesh
+12 The school education system in India
+Overview of the K-12 sector
+It is widely agreed that the Indian education system
+has made significant progress in recent years –
+particularly in terms of access. Recognising the
+importance of education in national development,
+the Twelfth Five Year Plan (2012–2017), alongside
+a continued focus on expanding education, also
+included a clear focus on improving the quality
+of education and on ensuring that access to
+educational opportunities are provided to all
+sections of society.
+Expenditure on education has increased rapidly
+in recent years, from Rs 97,000 crore (around
+£11 billion) in 2004–05, to Rs 560,000 (around
+£63 billion) in 2015–16, according to MHRD budget
+analyses. 21 While this increase appears impressive,
+when expressed as a percentage of gross domestic
+product (GDP), spending on education can be seen
+to have fluctuated since the turn of the century,
+from 4.1 per cent in 2000–01 down to 3.3 per cent
+in 2004–05, back up to 4.4 per cent in 2013–1422 and
+down again to 3.3 per cent in 2019–20, according
+to government figures. 23 UN figures indicate slight
+increases from 3.2 per cent in 2005 to 3.8 per cent
+in 2018. 24 However, recent strategy documentation
+released by NITI Aayog 25 (the body that in 2015
+replaced the Planning Commission responsible
+for the five-year plans) has recognised the need to
+increase this spending to six per cent of GDP by
+2022. This is in line with recommendations from the
+multilateral Education 2030 Framework for Action 26
+that spend on education should be four to six per
+cent of GDP or 15–20 per cent of overall spending,
+and reflected in the Draft NEP (2019), which
+envisions a doubling of spending on education
+over a ten-year period (from ten to 20 per cent
+of overall public expenditure). 27
+According to World Bank statistics, 28 government
+expenditure per student (primary) has also fluctuated
+in India, from a high of 13.9 per cent in 2001 down
+to 7.6 per cent in 2009, and up to 9.8 per cent in
+2013. Private household spending on education has
+greatly increased since 2000, according to the NSSO
+(National Sample Survey Office) survey of 2009–10,
+which documented 378 per cent and 345 per cent
+increases in rural and urban areas respectively. 29
+In 2014, an NSSO survey 30 indicated that average
+household expenditure per student in general
+education was Rs 6,788 (just over £75), and that
+26 per cent of students were taking private tuition,
+especially at secondary levels, where this figure
+rises to 37 per cent. A 2016 report estimated that
+this private tuition sector was worth £19 billion in
+2013, and was used especially for preparation for
+final exams by students from a range of socioeconomic backgrounds. 31
+The 2009 RTE Act stipulates that schooling is free
+and compulsory for all children aged six to 14,
+although the Draft NEP (under review in 2019)
+recommends ‘government provision for free
+and compulsory education for all children and
+adolescents between the ages of 3 and 18’, 32
+extending this significantly in both directions.
+It should be noted that in practice, ages for both
+enrolment and completion can vary. For example,
+despite the fact that the RTE recommends schooling
+start at age six, 26 of India’s states and union
+territories currently allow children to enter Standard
+1 at age five, and 34 per cent of five-year-olds were
+found to be in school in rural contexts in 2018. 33
+According to government figures, 34 initiatives to
+provide access to school for all children have led
+to increases in the total number of schools in India,
+from 971,000 in 2000 to 1.52 million in 2015. Over
+the same period, higher education institutions
+multiplied five-fold, from just over 10,000 in 2000
+to nearly 52,000 in 2015. Enrolments during this
+period have increased, from 186 million students
+in schools (primary and secondary) in 2000 to 261
+million (197 million primary, 64 million secondary)
+in 2015, and from 8.6 million higher educational
+enrolments (universities, colleges and standalone
+institutions) in 2000 to 33.6 million in 2014. Of
+particular note among these figures is a 60 per cent
+increase in female school enrolment to 48 per cent
+21 Comparison of ‘Analysis of Budgeted Expenditure on Education’. See https://mhrd.gov.in/statistics-new
+22 https://mhrd.gov.in
+23 https://www.indiabudget.gov.in
+24 http://data.un.org/en/iso/in.html
+25 National Institution for Transforming India: https://niti.gov.in/writereaddata/files/Strategy_for_New_India.pdf
+26 UNESCO (2015).
+27 Ministry of Human Resource Development (2019: 402–403).
+28 https://data.worldbank.org
+29 Parruck and Ghosh (2014).
+30 http://mospi.nic.in/sites/default/files/publication_reports/nss_rep_575.pdf
+31 RMSA Technical Cooperation Agency (2016a).
+32 Ministry of Human Resource Development (2019: 193).
+33 Bhattacharjea and Ramanujan (2019).
+34 https://mhrd.gov.in/statistics-new
+The school education system in India 13
+of total school enrolments by 2015–16, and a
+484 per cent increase in female higher educational
+enrolments to 46 per cent of the reported total in
+2014 (all Ministry of Human Resource Development
+statistics). UN figures 35 from 2016 indicate slightly
+higher female than male enrolment at primary
+(reported at over 100 per cent for both), secondary
+(76 per cent female, 75 per cent male) and tertiary
+(27 per cent female, 26.9 per cent male) levels. As
+a result of this drive to achieve universal access, the
+number of small (fewer than 150 students) and very
+small (fewer than 30 students) government schools
+has increased during the same period, which has
+brought fresh challenges, including inequity of
+learning resources, insufficient subject-specialist
+teachers in small secondary schools, and an
+increase in need for multigrade teaching practices.
+In addition, a number of such schools have been
+either merged or closed over recent years, across
+the country. 36 A 2015 report noted that small schools
+constitute over 70 per cent of all secondary schools
+in at least 20 states, and estimated a three-fold
+increase in per-student costs in these schools, where
+pupil–teacher ratios can be as low as 8:1, compared
+to those with over 300 students. 37 The Draft NEP
+(Ministry of Human Resource Development, 2019)
+also notes the increased financial burden of very
+small schools, recommending ‘school complexes’
+as a potential partial solution to this challenge to
+enable peer support, sharing of resources and
+improved governance. 38
+35 http://data.un.org/en/iso/in.html
+36 https://www.livemint.com/Education/K3Fgbf1GDrptRvqo0OKFTM/Govt-looks-at-locationspecific-mergers-of-260000-schools-t.html
+37 RMSA Technical Cooperation Agency (2015a).
+38 Ministry of Human Resource Development (2019: 157–175).
+Figure 5: Changes in gross enrolment ratio 2009–17
+0
+20
+40
+60
+80
+100
+Primary Upper primary Secondary Higher secondary
+2009 2017
+14 The school education system in India
+Figure 6: Enrolment gap between male and female students (millions)
+0
+2
+4
+6
+8
+10
+12
+14
+16
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+Primary Upper primary Secondary
+The school education system in India 15
+16 The school education system in India
+Schooling at different levels
+Typical school weeks and years
+In most states the government school week runs
+from Monday to Saturday, with either a half or full
+day on Saturday, or study on every other Saturday.
+In some locations – mainly urban – oversubscription
+of enrolment means that some schools offer a double
+shift: morning classes, followed by a repeat in the
+afternoon for a different cohort. The school year
+usually includes around 200 days of study, typically
+from June or July to April or early May. May, as the
+hottest month in many states, is the time of the
+longest school holidays. October and November
+in many states include a number of public holidays
+(e.g. Diwali). Exam preparation typically begins as
+early as February, with exams in March or April,
+although in grades of high-stakes exams (10 and 12),
+the whole academic year may be oriented towards
+exam preparation (see sections (Lower) secondary
+education and Higher secondary education below).
+Grades and promotion
+The Draft NEP (Ministry of Human Resource
+Development, 2019) is suggesting significant
+changes to the structure of schooling at different
+grades. 39 Table 1 shows both the pre-2019 system
+(including pre-primary, primary, upper primary,
+secondary and higher secondary) and the proposed
+revised system with a strong focus on early childhood
+education (ECE) that transitions into early primary
+education (foundational stage), followed by a
+preparatory stage (previously upper primary), then
+middle and high stages that continue until Grade 12.
+Ages provided are indicative – in practice there
+is significant state and local variation. The terms
+‘standard’, ‘grade’ and ‘class’ are all commonly used
+to refer to different grades.
+39 Ministry of Human Resource Development (2019: 75).
+Table 1: Pre-2019 and proposed post-2019 structure of education in India
+Age (typical) Current (2019) Grade
+Proposed in
+revised National
+Education Policy*
+17–18 Higher secondary 12 High stage
+16–17 11
+15–16 Secondary 10
+14–15 9
+13–14 Upper primary 8 Middle stage
+12–13 7
+11–12 6
+10–11 Primary 5 Preparatory stage
+9–10 4
+8–9 3
+7–8 2 Foundational stage
+6–7 1
+5–6 Pre-primary
+4–5
+3–4
+*Based on Draft NEP.
+The school education system in India 17
+Before the RTE Act (Ministry of Law and Justice,
+2009), many children who did not make the grade
+standard in end-of-year exams were held back
+(‘grade retention’) for another year. As part of the
+RTE, the ‘No Detention Policy’ (NDP; Section 16 of
+the RTE) in theory outlaws this practice, meaning
+that ages in each grade are more homogeneous
+than before 2009. A study conducted in 201840
+found that the NDP had a positive effect on academic
+learning outcomes in reading and maths at primary
+level, which the authors argue has led to the ‘likely
+outcome of improved motivation and the creation
+of a “fear free” learning environment’. Another
+study, also from 2018, found that students taught
+exclusively under the NDP ‘are able to show the
+same level of performance as those students who
+have partly been taught the same concept under
+the detention system, by the time they reach Class
+7.’ 41 Despite this, it has remained a highly contentious
+aspect of the RTE and in 2019 parliament proposed
+an amendment which could lead to the renewal of
+detention at certain key grade levels (5 and 8). 42
+Pratham (an NGO involved in education in India)
+has responded to the policy with its Teaching at the
+Right Level programme (in conjunction with J-PAL).
+This aims to ensure that children have the necessary
+foundational skills, whatever grade they may be in,
+to enable them to thrive and continue to learn. 43
+There is much variation as to which grade levels
+co-occur within the same school. For example,
+it is common in some states (e.g. Telangana
+and Maharashtra) for upper primary and lower
+secondary levels to be together in the same
+‘secondary school’, and teachers teaching across
+grades 6–10. Schools that include children from
+grades 1–12 can sometimes be confusingly named
+‘senior secondary’ or ‘higher secondary’ schools,
+despite the inclusion of primary sections. With
+regard to language of instruction, schools, or
+sometimes different ‘sections’ in a school, will often
+be labelled ‘English medium’ or ‘L1 (e.g. Hindi or
+Tamil) medium’ at any level from primary upwards,
+although the actual language use practices vary in
+complex ways (see separate section: Languages in
+education in India, below).
+Syllabus, subjects and
+assessment at different grades
+The design of educational provision in the
+school sector is governed by the NCF, 44 most
+recently updated in 2005 but expected to be
+revised in 2019–20. The framework sets out five
+broad principles:
+1. ‘connecting knowledge to life outside the school
+2. ensuring that learning shifts away from
+rote methods
+3. enriching the curriculum so that it goes
+beyond textbooks
+4. making examinations more flexible and
+integrating them with classroom life, and
+5. nurturing an overriding identity informed by
+caring concerns within the democratic polity
+of the country’ (p. viii).
+While the NCERT (see below) makes
+recommendations regarding curricula and syllabus
+content, and produces textbooks that can be used
+at the state level, responsibility for a school’s syllabus
+lies with the specific educational board involved
+but in theory must be aligned to the NCF (2005).
+For example, those schools operating under the
+CBSE (Central Board of Secondary Education – see
+Educational boards in India below) generally use the
+NCERT-produced textbooks (sometimes producing
+their own or sourcing from other private publishers
+at the school level, including international ones) while
+those under State Boards of Education (the majority
+of government sector schools) will use textbooks
+produced at the state level (usually by the State
+Councils of Educational Research and Training –
+SCERTs), at least until the end of upper primary.
+With the exception of the ‘board exams’ taken
+at the end of Grade 10 and Grade 12 (see (Lower)
+secondary education and Higher secondary education
+sections below) and the National Achievement Survey
+(see National Council of Educational Research and
+Training section below), much of the assessment
+conducted in government sector schools is
+devised and delivered by the teachers at the
+individual institutions. For schools following some
+particular boards of education (especially in the
+private sector), there may be additional prescribed
+assessments that are centrally managed (see
+Educational boards in India below and Appendix 1).
+40 Ahsan et al. (2018).
+41 Saraf and Deshmukh (2018).
+42 https://idronline.org/no-detention-why-did-a-popular-policy-get-scrapped/?gclid=CjwKCAjw8qjnBRA-EiwAaNvhwP17Iv86vbVAqcwtPthCDxLRoQ2uKSy6jzfD3RTYmz
+oSoAuAzvZl2RoCJeoQAvD_BwE
+43 https://www.teachingattherightlevel.org/
+44 NCERT (2005).
+18 The school education system in India
+A significant initiative arising after the ratification
+of the Right to Education Act (2009) was Continuous
+and Comprehensive Evaluation (CCE) – a system
+whereby teachers are expected to use formative
+as well as summative assessment techniques to
+track learner progress in both academic and nonacademic (extracurricular) domains, particularly
+from grades 1–9. This was adopted both by schools
+operating under state boards of education and those
+adhering to the CBSE. Implementation of the system
+has had a mixed response – while the introduction
+of CCE is widely acknowledged as a positive move,
+with its intention of providing more timely feedback
+on learning, reducing the emphasis on using only
+end-of-year exams for assessment, there has been
+confusion among teachers about how to effectively
+incorporate CCE into current practices and use the
+results constructively. For example, an evaluation
+study conducted in Haryana in 2013 found no
+discernible difference in learning outcomes in
+schools where CCE had been adopted compared
+to those where it had not. 45
+Early childhood education
+A wide range of types of ECE and daycare are
+available in India, including both government and
+privately managed lower and upper kindergarten
+and Anganwadi (meaning ‘courtyard shelter’) care
+centres, which are common in rural areas and fall
+under the Ministry of Women and Child Development.
+ASER (Annual State of Education Report) statistics
+(rural only) indicate that in 2018, 67 per cent of
+three-year-olds, 74 per cent of four-year-olds,
+58 per cent of five-year-olds and 26 per cent of
+six-year-olds were attending ‘preschool’ in 2018. 46
+Attendance in urban areas is likely to be higher.
+A large-scale, longitudinal study published in 201747
+found that preschool facilities were present in all
+the villages of the three states involved, with private
+provision expanding rapidly. It also found that levels
+of school readiness were ‘far below expectations’
+(p. 95), and that there was significant variation
+as to the paths that children took through ECE. It
+noted that the quality of preschool education, in
+private and state facilities as well as Anganwadis
+was not developmentally appropriate, reporting
+that alongside limited use of songs, rhymes and
+games, children were often being taught aspects
+of formal literacy and numeracy too early through
+rote learning methods, due in many cases to parental
+pressure. Workers in Anganwadis were described
+as ‘semi-trained’, and those in private preschools
+as, in most cases, ‘local, untrained youth’ often
+willing to make use of corporal punishment. Play
+opportunities were ‘largely missing’ from ECE in
+such rural areas. A study from 2009, in Mumbai
+reported developmentally appropriate practices
+in approximately half the classes observed. 48
+As highlighted earlier, the proposed revisions
+to the National Education Policy (Ministry of Human
+Resource Development, 2019) include bringing early
+childhood care and education under the Right to
+Education Act. Importantly, the policy also refers to
+putting in place a regulatory framework to address
+some of the issues of developmentally inappropriate
+practices discussed above.
+Primary education
+Primary education in India currently covers five
+grades, typically from ages six to 10 (although note
+the revised foundational stage in Table 1, proposed
+for the 2019 NEP above). However, there is much
+variation at local level, with ASER49 reporting that
+in rural areas ten per cent of children in primary
+education were four, and 34 per cent were five,
+while ten per cent of those still in preschool were
+seven. As well as ‘first’ language (see discussion
+of Languages in education in India below), subjects
+often include English, mathematics and usually
+a combined social studies and science lesson
+(e.g. ‘environmental science’ or ‘social science’).
+In addition to these, physical education is offered
+on most timetables, but remains very much ‘on the
+fringe’, with less than 20 per cent of rural schools
+having dedicated physical education teachers. 50
+In some states (e.g. West Bengal), art is also explicitly
+included on the primary curriculum. The Draft NEP51
+envisions a greater variety of subjects at primary level,
+with renewed emphases on art, music and physical
+education indicated. While retention to upper primary
+has improved since 2000, with government statistics
+stating that over 90 per cent of students transitioned
+to upper primary in 2015/16, according to NSSO (2014),
+37 per cent of males and 39 per cent of females left
+their study after completing primary education.52
+45 https://www.povertyactionlab.org/evaluation/improving-learning-outcomes-through-government-school-system-india
+46 Bhattacharjea and Ramanujan (2019).
+47 Kaul et al. (2017).
+48 Hegde and Cassidy (2009).
+49 ASER (2019).
+50 Bhattacharyya (2019).
+51 Ministry of Human Resource Development (2019: 90–92).
+52 http://pib.nic.in/newsite/PrintRelease.aspx?relid=159811
+The school education system in India 19
+In response to concern about the overuse of rote
+learning at primary level, a number of states have
+attempted to implement variations on a model
+of child-centred education, called activity-based
+learning (ABL) at lower primary grades in efforts
+to make learning more interactive, social and
+differentiated. A UNICEF evaluation of ABL initiatives
+across India conducted in 2015 reported mixed
+findings, with 27 per cent of classes reported as
+‘child-friendly’ but only 11 per cent ‘implementing
+ABL as intended’. 53 A statistically significant impact
+on learning outcomes was reported from only one
+of seven states (Gujarat). Findings agreed with other
+research on learner-centred initiatives conducted
+in primary contexts in India 54 that teachers’ beliefs
+and attitudes (as well as the technical side of
+implementation) must be addressed for such
+initiatives to demonstrate sustainable success.
+Upper primary education
+Upper primary education, also sometimes referred
+to as middle school (and middle ‘stage’ in the
+2019 NEP), lasts three years from grades 6−8 (ages
+approximately 11−14), and within the government
+sector is often located in larger schools that include
+primary and/or lower-secondary grades (larger
+private schools often offer all grade levels, with the
+exception of low-cost private schools which often
+offer only primary grades). The number of subjects
+taught increases and becomes more specialist
+than at primary levels. According to India’s Three
+Language Formula, three languages are taught: first
+language (often the state official language, rather
+than the child’s first language, where these differ),
+English and a third language (usually Hindi, except
+where this is the designated first language, where
+Sanskrit is often offered). 55 In practice, the number
+of languages taught has depended on a variety of
+sociopolitical factors. In many cases, the fact that
+multilingual classrooms are the norm rather than the
+exception means that actual language use during
+instruction becomes quite fluid both within and
+across schools in the same district (see section
+Translingual practices in the classroom, below).
+Social studies and general or environmental
+science are also key foci of the curriculum. Art
+and physical education may also be present, and
+computer studies/IT is becoming increasingly
+common particularly in urban schools (see section
+on Technology in education in India below). As for
+primary level, the Draft NEP proposes a wider range
+of subjects at upper primary level, including potential
+foci on ‘critical issues’ and ‘moral reasoning’ between
+grades 6−8. 56
+As curricula become more ambitious at upper
+primary level, achievement gaps between the higher
+and lower-achieving learners become more evident,
+and for many children, a focus on basic literacy in
+the medium of instruction is still important to ensure
+they are able to deal with the increased cognitive
+challenges of subject content. As one study on such
+overambitious curricula demonstrates, ‘paradoxically,
+learning could go faster if curricula and teachers
+were to slow down’. 57 Such challenges are reflected
+in NSSO statistics (2014), which indicate that over
+50 per cent of ‘ever-enrolled persons’ do not continue
+their education beyond upper primary level. 58
+(Lower) secondary education
+Lower secondary education covers two grades,
+9 and 10 (ages approximately 15−16), leading to
+the first major high-stakes exam, the All India
+Secondary School Examination (AISSE, also known
+as ‘Board exams’, leading to the Secondary School
+(Completion) Certificate, SSC). Enrolment figures
+at secondary level (currently non-compulsory,
+according to the Right to Education Act (2009),
+but proposed in the 2019 Draft NEP) are
+approximately at 75–79 per cent for both girls
+and boys, 59 although these are lower in rural
+areas, where around 70 per cent of all secondary
+education takes place. 60 Historically, secondary
+enrolment levels were also lower for students
+from disadvantaged backgrounds (SCs and STs),
+although government gross enrolment ratios for
+2015–16 reported SC secondary enrolment ratios
+higher than overall ratios (85 per cent versus
+79 per cent respectively); ST ratios were reported
+at 75 per cent. 61
+53 UNICEF (2015).
+54 Brinkmann (2015); Sriprakash (2012).
+55 Meganathan (2011).
+56 Ministry of Human Resource Development (2019: 98–100).
+57 Pritchett and Beatty (2012).
+58 www.icssrdataservice.in/datarepository/index.php/catalog/14
+59 http://data.un.org/en/iso/in.html
+60 NUEPA (2014).
+61 http://udise.in/
+20 The school education system in India
+Subjects become slightly more diverse at lower
+secondary level, with greater local variation. As
+well as the three languages of upper primary,
+and mathematics, sciences tend to separate into
+‘physical’ and ‘biological/life’ science, and social
+studies may separate into history and geography.
+Due to the pressure for students to perform well
+in the board exams, these core subjects remain the
+focus, particularly at Grade 10, which in practice
+frequently becomes an exam-preparation year. 62
+Students are expected to study harder, including
+in remedial (often after-school) classes with many
+families paying significant amounts of money for
+private tuition. The board exams are seen as key
+determiners of students’ future education and career
+paths. In 2019, 91.1 per cent of candidates passed
+the exams. 63
+At district level, school exam results are often
+compared and used to evaluate school and teacher
+performance, despite widespread variation in
+implementation and regulation, 64 leading a number
+of studies to conclude that they are an unreliable
+measure of teacher impact. 65 There is a practice
+in many states, particularly among private schools,
+for student exam performance to be advertised
+as a mark of effectiveness.
+The Draft NEP (2019) recognises many of these
+issues with the current high stakes exam system,
+proposing ‘easier’ board exams that focus on ‘core
+capacities’ only, and arguing that the system ‘must
+shift from one that primarily tests rote memorisation
+skills to one that is more formative, promotes
+learning and development for our students, and
+tests higher-order skills, such as analysis, critical
+thinking, and conceptual clarity’. 66
+Higher secondary education
+Higher (also called ‘senior’) secondary education
+comprises two years from grades 11−12 (ages
+approximately 17−18), leading to a second highstakes exam. There is a noticeable drop in the
+enrolment rate at this level (gross enrolment ratio
+of 51.3 per cent, compared to 79.3 per cent at lower
+secondary in 2017). 67 A second high-stakes exam
+(the All India Senior School Certificate Examination,
+AISSCE) is taken at the end of Grade 12 that
+determines entrance into universities, colleges,
+or acceptance at job interview for a number of
+career paths. Places at the top universities frequently
+demand results above 95 per cent for students
+to be considered – an inevitable effect of the large
+numbers of students competing each year for these
+elite institutions. These top universities also, in some
+cases, have their own entrance exams such as the
+Joint Entrance Exam for the Indian Institutes of
+Technology and Indian Institutes of Management.
+The results of the school-leaving certificate can
+be the gateway to preparation courses for these
+further exams. 68
+At the senior secondary level, subject choices
+diversify greatly, and students can choose particular
+subjects or vocations to pursue, depending on
+the desired career or academic path. Streaming
+is common at this level, for example with science
+streams (including maths, physics, chemistry,
+biology and ICT) often seen as more prestigious
+than humanities streams (including history, politics
+and geography) in some schools. Widespread
+concern among employers that school-leavers are
+unprepared for work in contemporary industries,
+often reported in the popular press, 69 is leading
+to an increase in vocational subjects being offered
+alongside the above, such as computer science,
+accountancy and commerce, among others.
+However, concerns about streaming remain,
+especially the issue of students being pressured
+to take specific subjects based on their academic
+achievement, rather than personal choice. The Draft
+NEP (2019) suggests that there will no longer be a
+‘hard separation’ between arts and sciences or
+between vocational and academic streams. 70
+62 Mody (2013).
+63 http://cbseresults.nic.in/cbseresults_cms/Public/Home.aspx
+64 e.g. Sriprakash (2012: 135).
+65 e.g. Bambawale et al. (2018); British Council (2016); Gandhi Kingdon (2007); Graddol (2010).
+66 Ministry of Human Resource Development (2019: 104–105).
+67 http://udise.in/Downloads/Publications/Documents/Analytical_Table_2016-17.pdf
+68 https://www.jeemain.nic.in
+69 For example, https://www.wsj.com/articles/SB10001424052748703515504576142092863219826 and https://www.indiatoday.in/education-today/featurephilia/
+story/engineering-employment-problems-329022-2016-07-13
+70 Ministry of Human Resource Development (2019: 78–79).
+The school education system in India 21
+71 http://udise.in/Downloads/Publications/Documents/U-DISE-SchoolEducationInIndia-2015-16.pdf
+School ownership and management
+Schools and other educational institutions in India
+are owned either by the government (central, state
+or local government bodies) or by the private
+sector (individuals, trusts or societies), with two
+distinct types of private sector institutions common.
+Those that are ‘aided’ (often called ‘governmentaided’ schools) receive financial support from
+the government and are largely free to students
+(although nominal fees may be collected). Those that
+are ‘unaided’ support themselves most commonly
+through student fees. In practice, therefore,
+both government and government-aided schools
+constitute what are internationally often called
+state schools (UK English) or public schools
+(American English), and private unaided schools
+constitute ‘private schools’ as the term is
+internationally understood.
+According to 2017 figures, 71 just over half of all
+schools were classified as government (including
+around nine per cent ‘local body schools’, discussed
+separately below), 12 per cent were classified
+as government-aided and just under a third as
+private unaided, although this varies by age group,
+with the percentage of government schools falling
+at secondary and higher secondary levels (see
+Figures 7 and 8). Madrasas and Tribal/Social
+Welfare Department schools each constitute less
+than two per cent of schools nationwide. Note,
+however, that these national statistics may not
+capture unregistered schools or alternative models
+of schooling (including home schooling by individual
+or groups of families), numbers of which are difficult
+to estimate.
+22 The school education system in India
+Figure 8: Total number of enrolments at each level by management type (2016–17)
+0 30 60
+(million)
+90 120 150
+Higher secondary
+Secondary
+Upper primary
+Primary
+Government Government-aided Private unaided
+Madrasa Other unrecognised
+Figure 7: Proportion of school management (all levels) 2016–17
+Government Government-aided Private unaided
+1%
+32%
+12%
+54%
+1%
+Madrasa Other unrecognised
+The school education system in India 23
+The following section provides an overview
+of the four main types of school.
+Government educational institutions
+These are run by the central government, state
+governments or public sector bodies, and are wholly
+financed by the government. Examples of these
+types of schools include state government schools
+(by far the largest single group), Kendriya Vidyalayas,
+Navodaya Vidyalayas, Sainik schools, military
+schools, air force schools and naval schools.
+Private aided (or government-aided) institutions
+These are managed privately but receive regular
+maintenance grants from the government, local
+body or other public authority, and as such are
+subject to regulations applied to government
+schools. Curricula, study materials, syllabus and
+examinations at all levels are similar to or the same
+as government schools in the same district, and
+students usually take either one of the two main
+Indian secondary school exams (the AISSE and
+the AISSCE at grades 10 and 12 respectively), or
+comparable state-level exams managed by the
+state education boards. Fees (if any) are nominal
+and are collected from the students according to
+government regulations. Even the recruitment of
+faculties here follows norms of government schools.
+There is no specific criteria for the admission of
+students in these institutions, but this is somewhat
+dependent on the proportion of funding that is
+provided by the government.
+Local body institutions
+These are run by municipal committees,
+corporations, education societies (e.g. the Deccan
+Education Society 72), Zilla Parishads, Panchayat
+Samitis, Cantonment Boards, etc. Examples of
+these types of schools include the ones run by
+New Delhi Municipality Council and the Delhi
+Cantonment Board.
+Private unaided institutions
+These are managed by a private organisation, trust,
+society or NGO and do not receive maintenance
+grants either from government, local bodies or
+any other public authority (except public–private
+partnership schools – see below). The fee structure
+for the students may vary greatly, from low-cost
+private schools to elite institutions more common in
+larger cities. Students are often admitted to private
+schools according to criteria (entrance examinations,
+interviews, etc.) designated by the school
+management. These schools may implement their
+own curriculum and examinations or may offer
+national or international curricula, such as the
+International Baccalaureate (see below). Under
+the Right to Education Act (2009), all private unaided
+schools are required to reserve at least 25 per cent
+of school places for children ‘belonging to weaker
+section[s] and disadvantaged group[s]’, as
+determined by socio-economic status, caste and
+religion. The current exceptions are ‘minority
+schools’ catering to specific religious or tribal
+groups, as per a ruling by the Supreme Court in
+2014. 73 However, implementation of the 25 per cent
+quota has been problematic for a variety of reasons.
+The Draft NEP (2019) notes that ‘the large amounts
+of money and effort spent on implementing this
+[reservation] clause may be more effectively spent,
+e.g. by investing the money on the public schooling
+system – particularly in disadvantaged areas – which
+would directly support many more students from
+underprivileged backgrounds in a sustainable
+manner’. 74 It therefore remains to be seen whether
+this policy will remain. An initiative to set up 6,000
+public–private partnership ‘model’ schools by 2015
+combines government funding for 40 per cent of
+students (from disadvantaged sectors of society)
+with typical private school funding (fees from the
+remaining 60 per cent). 75 These public–private
+partnership schools are largely independent in
+governance, like other private schools, and while
+no evidence of impact was found at the time of
+writing, this initiative has met with some concern
+from the popular press. 76
+72 https://www.despune.org
+73 http://indiatoday.intoday.in/education/story/sc-rte-act-not-applicable-to-minority- schools/1/359483.html
+74 Ministry of Human Resource Development (2019: 194).
+75 https://mhrd.gov.in/sites/upload_files/mhrd/files/upload_document/Scheme-MS-PPP_-_clean-NEW_0.pdf
+76 https://www.thehindu.com/opinion/lead/Public-private-partnership-in-education/article16303142.ece
+24 The school education system in India
+The increase and impact of private
+school education in India
+While there has been a rapid increase in the number
+of private schools since 2000, ASER reports (rural
+only) indicate that the ‘year on year increase in
+private school enrolment seems to have stopped’ at
+primary level, reporting of the proportion of private
+schools at 31 per cent in both 2016 and 2018. 77
+The increase documented prior to this tends to
+have been in low-cost private schools, the quality
+of which has been called into question by a number
+of studies. 78 In such schools in India, teachers are
+often poorly paid, underqualified and the schools
+themselves may also be poorly resourced. However,
+due in part to the different background
+demographics and motivation of the families
+that elect to send their children to such schools,
+they can often demonstrate better results than
+government and government-aided schools nearby,
+despite little or no evidence of improved quality
+in classroom teaching. 79
+Data analysis from a number of studies indicates that
+when factors such as socio-economic background
+are controlled for, the differences in outcome falls
+significantly. One recent review80 noted that this
+learning-gap ‘falls but, in most studies, it does
+not disappear’, also arguing that, due to the higher
+wages received by government-employed teachers,
+low-cost private schools can offer better value
+for money in terms of ‘cost per unit of learning’.
+However, a study including both rural and urban
+contexts 81 found that ‘the private school benefit
+becomes largely, statistically, insignificant’ when
+background factors are controlled for. Moreover,
+it found specifically that children in ‘low-fee’ private
+schools ‘may perform no better than their public
+school counterparts’. The Draft NEP (2019) proposes
+a number of measures to ensure tighter regulation of
+private schools, expressing concern at the ‘rampant
+commercialisation and economic exploitation of
+parents by many for-profit private schools’. 82
+School Management Committees
+According to the RTE (Ministry of Law and Justice,
+2009), each school must have a functioning School
+Management Committee (SMC), comprising parents
+and guardians (75 per cent), local authority officials,
+teachers and ‘local educationists or children’ to
+create a bridge between the school administration
+(usually head teacher) and the local community. 83
+While this requirement technically excludes private
+unaided schools, these also typically have parent–
+teacher associations which are getting stronger
+and more powerful in many cases.
+The SMC should meet once a month and, as well
+as ensuring various rights in the RTE are upheld,
+prepare a yearly School Development Plan, as well
+as monitoring the utilisation of grants and the whole
+school environment. More recent reports indicate
+a number of challenges to the effective functioning
+of SMCs, particularly with regard to issues of
+participation and accountability. One study 84
+noted varying levels of community participation
+in meetings and frequent misjudgements about
+school functioning among committee members.
+Another report 85 indicated challenges related to
+non-democratic member selection, inadequate
+training and confidence building for members, a
+lack of autonomy for SMCs and ambiguities with
+regard to decision-making responsibilities relating
+to local authorities. Nevertheless, the involvement
+of parents and community in decision-making and
+holding schools to account continues to be
+supported at policy level. The Draft NEP (2019)
+suggests that this should be increased, making
+more information available to parents so that they
+can ‘become the de facto regulator’ (p. 180).
+77 Wadhwa (2019: 17).
+78 Chudgar and Quin (2012); Erling et al. (2017); Simpson (2017).
+79 Wadhwa (2010, 2019).
+80 Gandhi Kingdon (2017).
+81 Chudgar and Quin (2012).
+82 Ministry of Human Resource Development (2019: 178, 190).
+83 See http://righttoeducation.in and https://mhrd.gov.in
+84 CREATE (2011).
+85 Central Square Foundation (2013).
+The school education system in India 25
+26 The school education system in India
+Languages in education in India
+Language diversity and the
+three-language formula
+Twenty-two languages are afforded official status
+in India, referred to as ‘scheduled languages’ in
+the Constitution. According to one source, these
+constitute the ‘first’ spoken language of over 96 per
+cent of the population. 86 However, estimates of the
+total number of languages in India (depending on
+how language–dialect divisions are drawn) have
+varied from over 1,600 (based on the 1971 selfreported census data) 87 to less than 300, with
+Ethnologue (in 2019) estimating 447 living languages.
+To add to this diversity, there are 25 distinct writing
+scripts used in India today, including variants on the
+Northern Brahmic (e.g. Hindi) and Southern Brahmic
+(e.g. Tamil) scripts. This creates a complex situation
+for language in education policy, both in the
+classroom and in the community, where language,
+culture and ethnicity are inextricably linked.
+Attempts to establish Hindi as the national language
+in the 1960s were challenged – particularly in the
+southern states – and today it is designated as a
+co-official or ‘associate’ language along with English.
+While Hindi operates as a lingua franca in the north
+(where many languages are in the Indo-Aryan family
+to which Hindi belongs), many from states in the
+south of India (where languages are in the Dravidian
+family) prefer to use English, not Hindi, as a lingua
+franca within the country, and politicians from Tamil
+Nadu in particular have consistently asserted its
+right as a state to not mandate the teaching of Hindi
+in its schools – including in response to the initial
+draft of the new National Education Policy. 88
+Both the Indian Constitution 89 and the Right to
+Education Act assert that the medium of instruction
+shall, as far as practicable, be the child’s mother
+tongue. 90 However, it is only scheduled languages
+which officially receive financial support from
+central government towards their conservation and
+it is therefore difficult for many groups to secure
+adequate funding for schooling provision in minority
+languages. As a result, one study found that
+there were just 31 languages used as mediums
+of instruction across the country in 2011. 91
+In order both to recognise India’s linguistic diversity
+and support the naturally multilingual practices of its
+people, the government developed a three-language
+formula (1968) for schools, which was implemented
+in most states (except Tamil Nadu). This formula
+envisaged that students should study three
+languages, including two Indian languages and
+English. In many non-Hindi-speaking states, the
+two most commonly chosen Indian languages are
+the state language and Hindi. The former of these
+most often constitutes the medium of instruction
+(MOI) for those classes that are not in an Englishmedium (EM) or Hindi-medium (HM) school or
+‘section’ (some schools can have two sections
+with different MOIs).
+While this means that many learners gain initial
+literacy in a language they know well (it may be
+their parents’ language or the language of the
+local community), others living in areas with higher
+linguistic diversity may be forced to learn to read
+and write in a language they do not know well, if at all
+– a challenge that is known to hinder development of
+initial literacy significantly. 92 In such situations, state
+governments may attempt to provide early primary
+education in a minority language, but often the lack
+of textbooks and other materials, as well as a smaller
+pool of qualified teachers who speak the language,
+make this a logistical challenge. In Hindi-speaking
+states, the third language chosen may be an ancient
+language, such as Sanskrit, a second non-indigenous
+language (e.g. Spanish or German) or another Indian
+language. The Draft NEP (2019) continues to support
+the three-language policy and advocates a stronger
+focus on modern national languages – particularly
+for majority-Hindi-speaking states 93 – although
+wording in this particular section has been
+contested and may lead to future revisions.
+86 Graddol (2010: 50).
+87 Meganathan (2011).
+88 https://www.indiatoday.in/india/story/draft-education-policy-stirs-hindi-debate-tamil-nadu-leaders-warn-of-protests-1540337-2019-06-01
+89 Government of India (2012: Part XVII Chapter IV p. 177).
+90 Ministry of Law and Justice (2009: Chapter V section 29.1 (f)).
+91 Meganathan (2011).
+92 E.g. Coleman (2011); McIlwraith (2013); Simpson (2017). A longitudinal research project (Multilingualisms and Multiliteracies) is currently being undertaken
+by a consortium of UK and Indian partners – led by the University of Cambridge – to further explore the issues and contribute to the evidence base – see
+https://www.mam.mml.cam.ac.uk
+93 Ministry of Human Resource Development (2019: 84).
+The school education system in India 27
+The rise of English medium instruction
+Not surprisingly, given the rise of English as a global
+lingua franca, demand for English medium instruction
+(EMI) has greatly increased over the last 20 years
+at all levels, even primary. 94 While some states have
+introduced EMI across the board (e.g. Jammu and
+Kashmir), others have tried to resist early transition
+to EM. Despite this, an increasing number of private
+schools have offered it, and in so doing contributed
+to attracting learners away from government
+schools, likely due to parents’ believing that starting
+to learn ‘in’ English sooner will somehow confer an
+advantage. In fact, it often has the opposite effect,
+particularly if English literacy precedes mother
+tongue literacy, 95 or if the transition to English is
+too abrupt or poorly implemented. 96
+This pull of students from government schools into
+private schools, many of which advertise as ‘English
+medium’, but practice a more translingual melange, 97
+has caused some government school and district
+authorities to switch to EM to attempt to reverse
+the loss of students. For others, due to the pull to EM
+private education being strongest on children from
+more affluent backgrounds, 98 a higher percentage
+of less-privileged learners have been left in nearby
+government schools. This movement may help
+explain recently documented falls in average
+government student learning outcomes, which
+have reflected negatively (and potentially unjustly)
+on the government schools themselves. This is a
+possibility acknowledged by Wadhwa (2019), as
+an explanation for why, between 2008 and 2014,
+primary learner reading skills, mathematics ability
+and English proficiency fell in rural government
+schools, as reported by ASER. A second possible
+cause of this fall in rural outcomes may be the pull
+of more affluent families to the cities. 99
+The Draft NEP (2019) is critical of the ‘unfortunate
+trend in schools and society towards English
+as a medium of instruction and a medium of
+conversation’. While it recognises that ‘English
+must also be available’, it states that ‘when possible
+the medium of instruction – at least until Grade 5
+but preferably till at least Grade 8 – will be the home
+language/mother tongue/local language’, indicating
+a clear intention to discourage early transition
+to EMI. 100
+Higher educational institutions are increasingly
+offering courses in English medium, particularly
+those which rely on reference to academic or
+specialist literature (e.g. medicine, engineering),
+which in turn creates demand earlier in the education
+system. Elite institutions such as the Indian Institutes
+of Management and Indian Institutes of Technology
+offer the majority, if not all, of their courses in
+English, with student intake coming primarily
+from private sector schools, but with some places
+reserved for those from disadvantaged communities
+or backgrounds (as in the school system). English
+language levels of students entering tertiary
+institutions is often very low and there has been
+an increase in universities organising language
+booster programmes for new undergraduates
+(e.g. at Ambedkar University Delhi).
+Translingual practices in the classroom
+The above discussion of separate mediums of
+instruction may give the impression that what
+happens in each classroom happens in one
+language. However, the reality is somewhat different,
+particularly when teacher and learner proficiency
+in the MOI is low. There is ample evidence 101 that
+the reality of language use in English lessons across
+India involves a more complex, pragmatic mixture
+of languages – a practice known as translanguaging
+– both among learners and in interaction with
+teachers in ways that mirror the reality of language
+use in Indian society at large.
+Practices in other classes where the MOI is not
+the main language of the learners’ community are
+also likely to be translingual, even if the teacher
+does not share this language. Such realities call
+into question the rationale of designating a single
+‘medium’ of instruction, a policy choice that derives
+from more monolingual communities, rather than
+recognising and facilitating the inclusion of all
+learners’ languages as media of instruction, or
+‘languages of learning’. 102
+94 Meganathan (2011).
+95 Anderson (2015).
+96 Simpson (2017).
+97 Erling et al. (2017).
+98 Credit Suisse Emerging Market Consumer Survey (2011).
+99 Kundu (2011) cites the Eleventh Five Year plan as a cause of increasing urbanisation over the term in question (p. 1), and also provides evidence (p. 36) of
+non-migrants being poorer than rural–urban migrants.
+100 Ministry of Human Resource Development (2019: 80–82).
+101 For example, Anderson and Lightfoot (2018).
+102 Anderson (2019).
+28 The school education system in India
+Technology in education in India
+The use of technology to augment learning in India
+has become a key focus for many policymakers and
+education professionals in recent years. This has
+spawned a number of national initiatives to try to
+facilitate and encourage the adoption of technology
+within schools, along with more local innovations
+led by motivated teachers and their colleagues.
+A large number of edtech (educational technology)
+start-ups have also emerged, ranging from wholeschool solutions which seek to integrate complete
+systems of learning and assessment into schools,
+to free downloadable apps aimed at learners or
+teachers to develop specific skills and knowledge.
+National programmes seeking to harness the benefits
+of technology have included the broad-ranging
+‘Digital India’ campaign, which aims to make
+government services more easily available
+to the population across all sectors, including
+education. 103 Building on programmes in place
+since the 1970s, where schools were provided
+with tape recorders and other audiovisual materials,
+several initiatives have been undertaken to equip
+schools (e.g. with Smartboards and links to satelliteenabled educational TV), train staff and teachers,
+reach rural schools and develop e-content (such as
+by the Central Institute for Educational Technology
+– see below). 104 For example, SWAYAM105 is an online
+platform making courses available for all subjects
+for students from Grade 9 through to postgraduate
+education, in a massive open online course (MOOC)
+format. 106 The platform draws content from a large
+number of providers, including the prestigious Indian
+Institutes of Technology and Indian Institutes of
+Management. DIKSHA (see Teacher education and
+evaluation in India below) is a further platform that has
+been set up for teachers to access learning resources
+and for professional development purposes. Several
+states have undertaken projects to augment existing
+textbook content with online materials through the
+use of QR codes to allow students and teachers to
+access them on mobile or other devices.
+A recent project by the British Council and Central
+Square Foundation 107 invited educationalists
+from across India to submit case studies detailing
+examples of effective technology use. Attracting
+over 430 entries, the project provided insight into
+some of the ways that technology is being used
+in classrooms and (to a lesser extent) for
+professional development in India.
+The most popular use identified in the project
+focused on edtech’s ability to facilitate visualisation
+across a range of subjects, typically involving the use
+of video or animation to bring a particular concept
+to life. Other common uses included students using
+tools such as PowerPoint to facilitate class projects
+and in some cases for teachers to provide additional
+scaffolding to learners to support conventional
+classroom teaching (including using a flipped
+learning model). While many of the cases submitted
+involved teaching and learning in comparatively
+privileged contexts, a number focused on the
+potential of educational technology to reach rural
+or underprivileged communities and provide
+educational content to address gaps in learning and/
+or other access to appropriate input. In this way,
+technology is being used by a variety of actors within
+the system to attempt to address issues of equity
+and inclusion. Interestingly, almost all of the cases
+submitted represented bottom-up, local approaches
+to technology integration, as opposed to initiatives
+that had been implemented on a larger scale.
+The use of technology to support learning is likely
+to become more widespread in the coming years as
+connectivity and infrastructure spread and improve,
+although the often-cited belief that educational
+technology might replace teachers needs to be
+tempered by understanding of the complexity of
+teaching as a social practice and schools as part
+of society, not just preparation for it. 108 As Trucano
+notes, ‘Experience from around the world shows us
+that, over time, teachers’ roles become more central
+– and not peripheral – as a result of the introduction
+of new technologies.’ 109 The draft National Education
+Policy sets out the objective of:
+appropriate integration of technology into all levels
+of education – to support teacher preparation
+and development; improve teaching, learning
+and evaluation processes; enhance educational
+access to disadvantaged groups; and streamline
+educational planning, administration and
+management (p. 339).
+103 https://www.digitalindia.gov.in/
+104 https://ictschools.ncert.gov.in/wp-content/uploads/2017/08/ICTscheme.pdf
+105 Study Webs of Active-learning for Young Aspiring Minds.
+106 https://swayam.gov.in/
+107 Motteram (2017).
+108 Bruner (1996).
+109 Trucano (2015).
+The school education system in India 29
+The policy recognises four key areas where
+technology can benefit education in India:
+1. for initial teacher training and their
+continuing professional development
+2. to ‘support the classroom processes
+of teaching, learning and evaluation’
+3. ‘to improve access to education for
+disadvantaged groups, including differentlyabled students, girls and women, and
+students living in remote areas’
+4. in ‘the planning, administration and management
+of the entire education system’ (p. 339).
+However, it also recognises the ongoing challenges
+in terms of ensuring all schools have access to
+basic electricity, hardware and software and/or
+the capacity to maintain installed systems, along
+with often quite low digital literacy skills among
+teachers and school leaders and the need to
+ensure the safeguarding of data shared online.
+The draft policy recommends the establishment of
+a new autonomous body – the National Educational
+Technology Forum – to support future initiatives
+and research. There is also a large and increasing
+number of private companies and non-government
+organisations seeking to support learning through
+the use of their platforms, software and applications
+– including international organisations.
+30 The school education system in India
+Teacher education and evaluation in India
+Of India’s 10.1 million teachers (2015–16 figures),
+MHRD statistics110 indicate that over five million
+(approximately 53 per cent) work at primary and
+upper primary levels, over three million (34 per cent)
+at secondary and senior secondary levels and over a
+million (13 per cent) at higher education level. Despite
+these huge numbers, India’s ongoing commitment to
+universal access means that there was still a shortfall,
+estimated at one million teachers in 2017.111
+Although there are more male than female teachers in
+India today, especially at secondary level, significant
+progress has been made to reduce this discrepancy.
+Government figures from 2012–13 indicated femaleto-male teacher ratios at 79:100 at primary level
+(compared to 55:100 in 2000–01), and 66:100 at
+secondary level (compared to 54:100 in 2000–01),
+and figures from higher education report 66 per cent
+of students on BEd courses in 2016 and 62 per cent
+on ‘teacher training’ courses in 2017 were female, 112
+a strong indication that this gender imbalance will
+continue to fall in the near future. Evidence from
+Andhra Pradesh 113 indicates that reducing this gender
+imbalance ‘would improve overall learning outcomes
+and be especially useful as a tool for bridging gender
+gaps in learning trajectories over time.’
+Teacher education, qualification, support and
+evaluation all currently fall under the jurisdiction
+of the Ministry of Human Resource Development
+(MHRD) in India (proposed to be renamed as the
+Ministry of Education according to the Draft National
+Education Policy). The MHRD is responsible for
+formulating and implementing the National Policy
+on Education, developing and expanding educational
+provision, supporting disadvantaged groups
+(poor, female and minorities) and liaising with foreign
+bodies, such as UNESCO. National policy legislation,
+such as the RTE Act (Ministry of Law and Justice,
+2009), requires central government to develop and
+enforce standards for pre-service teacher training,
+ensure minimum qualification standards are met
+by education providers, maintain acceptable pupil–
+teacher ratios, and ensure schools meet staff
+recruitment requirements. It also organises the
+yearly National Award to Teachers, celebrating
+the contributions of India’s finest teachers. 114
+Under the MHRD, responsibility for teacher education
+falls partly to the National Council for Teacher
+Education (NCTE; see separate section below),
+including qualification requirements and oversight
+of recognised teacher training institutions, and partly
+to the National Council of Educational Research
+and Training (NCERT; see separate section below).
+Regional teacher education responsibilities are
+co-ordinated in most states by SCERTs, under
+the jurisdiction of which are District Institutes of
+Education and Training (DIETs; over 500 across India).
+Professional development of lecturers and teachers
+in higher education falls under the jurisdiction of
+the University Grants Commission.
+Pre-service teacher training
+and qualifications
+Oversight for pre-service teacher training falls
+under the responsibility of NCTE, which publishes
+the National Curriculum Framework for Teacher
+Education (NCTE, 2009). Training is carried out in
+over 170 Colleges of Teacher Education and over
+17,000 Teacher Education/Training Institutes across
+India, 92 per cent of which are private. 115
+The NCTE recognises a number of teacher
+qualification programmes, 116 including the Bachelor
+of Education (BEd) and Master of Education (MEd)
+qualifications, mainly for secondary levels and above,
+as well as a number of diploma courses (e.g. Diploma
+in Education) for early childhood, primary, and
+specialist teacher education (e.g. physical education
+and arts education). Exact qualifications required
+for a given position will depend on the board
+involved 117 and in practice, due primarily to teacher
+shortages, teachers lacking minimum requirements
+are sometimes appointed at all levels. These teachers
+are sometimes referred to as ‘contract’, ‘assistant’
+or ‘para-teachers’ and generally do not receive the
+same salary or benefits (or access to development)
+as regular teachers. Nevertheless, there have been
+a number of recent initiatives to train up all practising
+teachers in some states to enable parity of
+knowledge and skills. 118
+110 https://mhrd.gov.in/sites/upload_files/mhrd/files/statistics-new/ESG2016.pdf
+111 https://www.ndtv.com/education/indias-teachers-crisis-country-falls-short-of-1-million-school-teachers-1778220
+112 https://mhrd.gov.in/sites/upload_files/mhrd/files/statistics-new/AISHE2017-18.pdf
+113 Muralidharan and Sheth (2016).
+114 www.nationalawardtoteachers.com/
+115 Ministry of Human Resource Development (2019: 114–115).
+116 www.ncte.gov.in
+117 www.ncte.gov.in/Website/MinimumQualifications.aspx
+118 https://www.livemint.com/Education/iwUT3pamWXWjvZb5G6ZQ3O/Parliament-passes-bill-to-allow-RTE-teachers-time-till-2019.html
+The school education system in India 31
+The BEd is the most commonly taken higher
+education programme recognised by NCTE, with
+530,000 students enrolled (66 per cent female)
+in 2016, 119 constituting approximately half of the
+1.1 million teachers trained each year, according
+to government figures. 120 DIETs typically offer
+diploma-level qualifications that are recognised by
+NCTE and usually administered by the SCERT at state
+level. 121 Government figures indicate that in 2017–18,
+279,000 students were enrolled in ‘teacher training
+courses’ (62 per cent female) in both public and
+private sectors. 122 The Draft NEP (2019) proposes
+a four-year BEd, ‘combining content, pedagogy and
+practical training’ as the minimum qualification
+by 2030, alongside a two-year BEd for graduates
+of relevant subjects. It also proposes teacher
+internships under the supervision of ‘mentoring
+teachers’ in local schools, suggesting an increased
+focus on the practicum. 123
+The Teacher Eligibility Test was an initiative
+established in 2011 to try to standardise the way
+that pre-service teachers were qualified, and in some
+cases practising teachers who often did not hold
+additional qualifications were required to take the
+test. The assessment is managed both centrally (for
+teachers in schools working under central boards of
+education) and at the state level. Technically, passing
+the TET is mandatory for all teachers working with
+grades 1–8. However, there have been issues with
+the quality of the assessment and specific questions
+asked, with many complaining that it is highly
+theoretical and requires memorisation of facts as
+opposed to understanding of practical teaching
+approaches. Pass rates have been extremely low
+but it is not clear whether this is because of a true
+lack of the required skills and knowledge or problems
+inherent in the test design and/or implementation.
+Nevertheless, in some states the inability to pass
+the exam has led to teachers losing their jobs. 124
+Prior to 2014, there was significant criticism of
+teacher education in India, including what one author
+called a ‘deeply entrenched dichotomy of theory and
+practice’ from which trainees often emerge without
+the necessary practical skills and understanding, 125
+and a lack of focus on reflection that would enable
+teachers to continue developing autonomously. 126
+Since then, revised NCTE regulations (2014)
+extended the BEd to two years (from nine months),
+including at least 25 per cent ‘school-based activities
+and internship’, 127 in part to respond to these
+criticisms. The Draft NEP notes that a large number
+of private teacher education institutions function
+as ‘commercial shops’ that do not meet the minimum
+of curricular requirements, stating that these ‘will
+be shut down as soon as possible’. It also proposes
+the phasing out of para-teachers by 2022. 128
+In-service teacher development
+and support
+In-service teacher training (INSET) is most often
+organised at state level through the SCERT, and
+more locally through DIETs, which provide support
+for a number of Block Resource Centres and Cluster
+Resource Centres within each district. Both planning
+and financial support for INSET comes mainly
+through SSA (see separate section under Indian
+government education initiatives), within which 20
+days of INSET per year should currently be provided
+to experienced teachers, more to new recruits. 129
+According to the National Curriculum Framework
+for Teacher Education (NCTE, 2009: 64), which
+also provides suggestions for teacher development
+programmes, continuing professional development
+programmes should encourage teachers to:
+● ‘explore, reflect on and develop one’s
+own practice
+● deepen one’s knowledge of and update oneself
+about one’s academic discipline or other areas
+of school curriculum
+● research and reflect on learners and
+their education
+● understand and update oneself on educational
+and social issues
+● prepare for other roles professionally linked to
+education/teaching, such as teacher education,
+curriculum development or counselling
+● break out of intellectual isolation and share
+experiences and insights with others in the field,
+both teachers and academics working in the
+area of specific disciplines as well as intellectuals
+in the immediate and wider society.’
+119 https://mhrd.gov.in/sites/upload_files/mhrd/files/statistics-new/AISHE2015-16.pdf
+120 Reported in Bambawale et al. (2018).
+121 www.ncte.gov.in
+122 https://mhrd.gov.in/sites/upload_files/mhrd/files/statistics-new/AISHE2017-18.pdf
+123 Ministry of Human Resource Development (2019: 134–135).
+124 https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-govt-to-sack-1500-teachers-who-havent-cleared-tet/articleshow/69123972.cms
+125 Srinivasan (2016: 209).
+126 Pandey (2011).
+127 www.ncte.gov.in/Website/about.aspx
+128 Ministry of Human Resource Development (2019: 115–123).
+129 http://ncte-india.org/ncte_new/pdf/NCFTE_2010.pdf
+32 The school education system in India
+A number of NGOs and development partners are
+acknowledged as providers of teacher education
+support in the curriculum (p. 70) especially with
+regard to the introduction of learner-centred
+initiatives. These include UNICEF, which focuses
+on early childhood and K12 education, and the
+British Council, which focuses on English language
+teaching and teacher education.
+According to government figures, 3.5 million
+teachers receive INSET each year, 130 although there
+seems to be significant variation between states
+regarding how much INSET teachers receive and
+how systematic, and useful, it is. Recent research
+indicates largely top-down initiatives, and while
+evidence of impact and participant satisfaction is
+presented in one government report, 131 other studies
+have painted a less positive picture. A study from
+one state (Uttarakhand) in 2017 found that only
+19 per cent of teachers had participated in INSET
+in 2015–16, down from a high of 54 per cent in
+2010–11. 132 It was noted that a large number of
+teachers skip mandatory training for a number of
+reasons, including logistical difficulties (particularly
+for women, who may have more responsibilities
+at home and so sometimes are unable to travel),
+a lack of interest or scepticism towards the value
+of the training. A study from 2017 found that none of
+the teachers in two schools in Tamil Nadu had ever
+undergone ‘training’. 133 Another study conducted
+by the British Council among English teachers in
+Maharashtra in 2013 found evidence of training
+‘fatigue’ and a lack of belief in the training due to
+poor planning, unsuitable resource persons and little
+follow-up. 134 ‘Reform fatigue’ was also found among
+teachers on one NGO-led project in Karnataka. 135
+In response to challenges identified in both these
+and the government report mentioned above,
+detailed guidelines for teacher continuing
+professional development were issued for secondary
+level in 2015. 136 MHRD has also shared proposals
+to restructure DIETs in 2017 to enable a greater
+emphasis on more bottom-up continuing
+professional development and support for schoollevel innovations and research projects. 137 The
+Draft NEP proposes a minimum of 50 hours of
+‘choice-based’ continuing professional development
+per year for each teacher based on a ‘wellintegrated’ curriculum that makes extensive use
+of ICT and avoids cascade-model training typical of
+top-down initiatives. 138
+Online resources for teacher support
+In 2017, NCTE launched DIKSHA (https://diksha.gov.
+in/), a national digital portal to support teacher
+education through the hosting of resources for
+teachers including materials for in-class use, teacher
+training content, assessment aids and opportunities
+for teachers to interact through online communities.
+2017 also saw the launch of ShaGun (http://
+ssashagun.nic.in./), a web portal designed to
+support SSA by both championing success stories
+and measuring performance and progress.
+NGO-led websites offering support and resources
+for teachers include Teachers of India (http://
+teachersofindia.org/en) of the Azim Premji
+Foundation, TESS India (www.tess-india.edu.in/)
+set up by the Open University and Save the Children,
+Firki (initially for Teach for India fellows but now open
+to all – https://www.firki.co) and the British Council
+India’s website (https://www.britishcouncil.in/teach),
+mainly for English teaching. English language
+teachers in India are supported by two national
+organisations, ELTAI (English Language Teachers
+Association of India – http://eltai.in/) and AINET (All
+India Network of English Teachers – http://theainet.
+net/), and a number of state-level organisations, such
+as the 15 (in 2019) chapters of ELTAI across India.
+Recently, a number of projects and programmes
+have had some success with establishing
+communities of practice using social media
+including Facebook and WhatsApp. Some of these
+have operated at large scale, attracting thousands
+of teachers across a single state. Their function
+as a tool for motivating teachers and a platform
+for sharing experiences has been documented,
+but in some cases they have also indicated a lack
+of depth to reflection on practice and the need for
+greater support in some fundamental aspects of
+classroom teaching. 139
+130 According to Bambawale et al. (2018).
+131 RMSA Technical Cooperation Agency (2016b).
+132 Akhtar (2017).
+133 Meganathan (2017).
+134 Mody (2013).
+135 Sriprakash (2012).
+136 RMSA Technical Cooperation Agency (2015b).
+137 Ministry of Human Resource Development (2017).
+138 Ministry of Human Resource Development (2019: 128–129).
+139 Parnham et al. (2018).
+The school education system in India 33
+Teacher evaluation
+A number of tools and initiatives have recently
+been developed to facilitate in-service teacher
+evaluation in India, including:
+1. Advancement of Educational Performance
+through Teacher Support (ADEPTS; 2007)
+2. PINDICS performance indicators (2013)
+for both self-assessment and supervisor
+assessment of primary school teachers 140
+3. the National Programme on School Standards
+and Evaluation, known as the Shaala Siddhi
+framework (2015), which focuses on school
+evaluation and improvement. 141
+While ADEPTS appeared to be losing momentum
+at the time of writing (2019), a draft version of
+a new set of performance indicators, the Teacher
+Performance Assessment Rubrics, was also being
+circulated by NCERT for use both by teachers (selfassessment) and supervisors to assess teacher
+performance at all levels (i.e. potentially replacing
+PINDICS) if rolled out in future. In addition to these
+tools, there are moves in some states to attempt
+to link learner achievement (through exam results)
+to teacher evaluation, and potentially performancerelated pay, 142 despite evidence of considerable
+challenges in accurately assessing the value-added
+impact of a single teacher. 143 This is due to multiple,
+confounding factors influencing a child’s learning
+at school, how this learning is assessed and how
+valid and reliable this assessment is, even in contexts
+where assessment procedures are more valid and
+more reliable than is practically possible in the vast
+majority of schools in India today. The same source
+indicates that such measures, if implemented, could
+unfairly penalise those teachers working with the
+most disadvantaged learners, who may make slower
+progress and have lower overall attainment levels.
+A review of teacher evaluation procedures in
+India from 2018 concluded that while many of the
+tools developed centrally generally provide for
+appropriate teacher evaluation, they were often
+used inappropriately and were ineffective as a result.
+The review made several recommendations:
+● increased transparency (in use) of evaluation
+criteria and how these relate to classroom
+processes and skills from pre-service
+education onwards
+● a shift in mindset at all levels of the system
+to value the formative (learning) potential of
+teacher evaluation, rather than seeing it simply
+as a procedural requirement
+● development of skills for self-assessment
+by teachers, and triangulated assessment
+by supervisors
+● the prioritisation of classroom teaching
+responsibilities and school-based professional
+development over non-academic work
+● the need to improve perceptions of the status
+of teaching as a profession and to encourage
+commitment to professional development
+● improved accountability mechanisms within
+the system. 144
+The Draft NEP proposes a framework for teacher
+performance appraisal that recommends
+‘multiple sources of evidence’ including classroom
+observations, peer review and feedback on progress
+of students. This implies a qualitative – rather than
+value-added – approach, although it indicates that
+SCERTs will have some freedom to develop specific
+procedures for each state. 145 It also prohibits the
+involvement of teachers in ‘government work that is
+not directly related to teaching’, providing examples
+of electioneering and preparation of midday meals
+as inappropriate. Such practices are common across
+the country and often lead to teachers being away
+from their classes for significant amounts of time
+each year. 146
+140 www.ncert.nic.in/pdf_files/PINDICS.pdf
+141 http://14.139.60.151/sse/doc/THREE.pdf
+142 https://timesofindia.indiatimes.com/city/mumbai/teachers-upset-as-state-links-pay-hikes-to-students-learning/articleshow/61211885.cms
+143 Darling-Hammond (2012).
+144 Bambawale et al. (2018).
+145 Ministry of Human Resource Development (2019: 132).
+146 Ministry of Human Resource Development (2019: 118).
+34 The school education system in India
+1952–53
+Secondary
+Education
+Commission
+Established aims and
+made recommendations
+for secondary
+education regarding
+age groups, objectives,
+and importance
+of mother tongue,
+curriculum content and
+‘multipurpose schools’.
+1964–66
+Kothari Commission
+Made recommendations
+to reform education
+by ensuring relevance
+to needs, improved
+productivity, national
+integration, a focus
+on moral values, and
+closer involvement of
+universities in pursuing
+these aims, leading to
+the National Policy on
+Education in 1968.
+1968
+National Policy on
+Education (NPE)
+Included stipulations
+on compulsory
+education to age 14,
+greater equality of
+opportunity, the (then
+new) three language
+formula, and improved
+teacher education.
+1976
+42nd Constitutional
+Amendment
+Reinforced national
+and integrative
+role of education,
+emphasising quality
+standards for teachers
+and encouraging
+increased personnel
+development, research
+and internationalisation.
+Education became a
+‘concurrent subject’
+with dual responsibility
+at both central and
+state levels.
+1986
+(New) National
+Policy on
+Education (NPE)
+Emphasised greater
+integration of women,
+SCs and STs, expansion
+of adult education,
+incentivisation for
+low-income families,
+recommending a
+‘child-centred approach’
+at primary level and
+expanding the open
+university system.
+1987–88
+Centrally Sponsored
+Scheme of Teacher
+Education
+Established the District
+Institutes of Education
+and Training (DIETs)
+and strengthened the
+role of the SCERTs in
+teacher education.
+1993
+District Primary
+Education
+Programme
+Aimed to achieve
+universal primary
+education, leading
+to SSA in 2000.
+1995
+Midday Meal
+Scheme
+Aimed to improve the
+nutritional status of
+primary school children
+through the compulsory
+provision of free midday
+meals for all primary
+pupils. Revised in 2001
+and 2004 and set for
+expansion to include
+breakfast in 2019–20.
+2000–02
+Sarva Shiksha
+Abhiyan (SSA)
+Introduced to achieve
+universal primary
+education through
+the provision of new
+schools (access) and the
+strengthening of existing
+school facilities, as well
+as increasing teacher
+capacity and support,
+and improving teachinglearning materials
+(quality) (see Indian
+government education
+initiatives section below).
+2002
+Right to Education
+Amendment
+The 86th Constitutional
+Amendment introduced
+the Right to Education
+for all children to
+age 14 and the right
+to early childhood
+care to age six.
+2005
+National Curriculum
+Framework (NCF)
+Developed by the
+National Council for
+Educational Research
+and Training, the NCF
+strongly advocated
+a move away from
+rote learning and
+toward more childcentred practices.
+2007–08
+Model School
+Scheme
+Public–private
+partnership
+initiative that planned
+6,000 model schools
+(one in each block)
+as a ‘benchmark
+of excellence’ to
+ensure access to
+quality schooling for
+‘talented rural children’.
+Indian education policy: a timeline
+The following timeline documents important policies
+introduced by the Indian government since independence.
+The school education system in India 35
+2008
+National Scheme
+for Incentive
+to Girls for
+Secondary
+Education
+Aimed to promote
+increased enrolment
+of girls in secondary
+(14–18) education,
+with a specific focus
+on girls from SC
+and ST communities.
+Included a financial
+deposit (Rs 3,000)
+for eligible students
+to withdraw upon
+successful completion
+of secondary
+education at age 18.
+2009
+Rashtriya
+Madhyamik Shiksha
+Abhiyan (RMSA)
+A major programme
+that aimed to improve
+quality, equity of
+access (irrespective
+of gender, socioeconomic background
+and disabilities)
+and enrolment and
+completion ratios at
+secondary level, with
+specific foci on teacher
+training, provision of
+basic facilities, science
+and ICT education and
+inclusivity (see Indian
+government education
+initiatives section below).
+2009–10
+RTE Act
+Provided all children
+aged six to 14 with
+the right to ‘free and
+compulsory education’
+in a local school and
+laid out a rights-based
+framework that casts
+legal obligations on
+central and state
+government. Also
+specifies teacher-pupil
+ratios, school working
+days and teacher
+working hours and
+qualifications as well
+as prohibiting physical
+punishment, mental
+harassment and
+selective admission of
+pupils. Currently under
+review as part of the
+National Education
+Policy development
+process (2019).
+2009–10
+Inclusive Education
+of the Disabled at
+Secondary Stage
+Provided assistance
+for all students with
+disability to continue
+studying in grades 9−12
+after completion of
+primary education.
+2012
+Justice Verma
+Commission on
+teacher education
+The report published
+after this commission’s
+deliberations made
+a series of important
+recommendations to
+improve the provision
+of teacher education
+in India.
+2014
+Beti Bachao
+Beti Padhao
+Aims both to
+celebrate the girl
+child and to ensure
+the survival, safety
+and education of
+girls, including
+commitments to
+building more girls’
+toilet and drinking
+water facilities,
+thereby reducing
+the number of
+female dropouts.
+2014
+Scheme to
+Provide Quality
+Education
+in Madrasas
+Aims to provide for
+the modernisation of
+madrasa education
+through the National
+Institute of Open
+Schooling. Aims to
+reach one million
+Muslim children.
+2015
+Rashtriya Avishkar
+Abhiyan
+Launched to encourage
+greater enquiry,
+creativity and interest
+in science, maths
+and technology, and
+to develop stronger
+links between schools
+and higher education
+institutions.
+2018
+Samagra Shiksha
+Abhiyan
+Aims to subsume and
+merge SSA, RMSA and
+Teacher Education, with
+a focus on ensuring
+a ‘continuum’ from
+preschool right up to
+senior secondary level,
+and ensuring ‘inclusive
+and equitable quality
+education’, in line
+with UN Sustainable
+Development Goal 4.
+2019
+National Education
+Policy
+A draft of the revised
+National Education
+Policy was released for
+public comment in May
+2019. The policy seeks
+to overhaul key aspects
+of the education system
+including revisions to
+the Right to Education
+Act and governance
+structure of the system.
+Implementation of the
+policy is expected to
+begin in late 2019/
+early 2020.
+2008
+Girls’ Hostel
+Scheme
+The Scheme for
+Construction and
+Running of Girls’
+Hostel for students of
+Secondary and Higher
+Secondary Schools
+aimed to provide
+accommodation for
+girls near schools to
+reduce dropout due
+to distance to school,
+financial constraints
+and related societal
+factors, with a focus
+on disadvantaged
+girls in ‘Educationally
+Backward Blocks’.
+2008
+National MeansCum-Merit
+Scholarship
+Scheme
+Introduced meanstested scholarships of
+Rs 6,000 per annum to
+‘meritorious’ students
+from disadvantaged
+backgrounds to
+continue education
+from grades 9−12.
+36 The school education system in India
+Indian government education initiatives
+Indian central government has in recent years
+funded a large number of specific policy initiatives,
+aimed at improving both access to and quality
+of education. The 2019−20 Indian central budget
+allocated Rs 93,848 crore (over £10 billion) to
+education (3.3 per cent of the budget total and
+an increase of over Rs 10,000 crore on 2018−19),
+with Rs 56,387 crore for school education and
+literacy, and Rs 37,461 crore allocated for higher
+education. 147 It is, however, important to understand
+these figures in the context of overall population
+growth. As noted in the Introduction above, when
+expressed as a percentage of GDP, spending
+has actually fluctuated unpredictably between
+3.3 and 4.4 per cent since 2000.
+While much of this funding goes into maintaining
+and supporting the ever-expanding education sector
+(e.g. staff salaries, teacher education, materials
+development and provision of schools in remote
+areas), funds have also been diverted into projects
+specifically designed to meet India’s needs, many
+of which correspond to its commitments to achieving
+both Millennium Development Goals and Sustainable
+Development Goals. The Draft NEP envisions a
+doubling of spending on education over a ten-year
+period (from ten to 20 per cent of overall public
+expenditure), arguing that the rapid pace of
+economic growth will provide sufficient financial
+support for this commendable, yet ambitious target.
+India’s commitment to
+UN development goals
+The Millennium Development Goals established
+universally agreed and measurable indicators for
+global development in 2000, including in the field
+of education, and were integrated by India into its
+national development agenda. This included the
+initiation of the SSA programme, which had
+considerable success in achieving near-universal
+enrolment at primary level. More recently, the
+Sustainable Development Goals have also been
+integrated into India’s educational initiatives,
+particularly goal 4 (quality education), both through
+further support for ongoing programmes, such
+as Rashtriya Madhyamik Shiksha Abhiyan (recently
+subsumed under Samagra Shiksha Abhiyan), and
+through the funding of new initiatives, such as
+Rashtriya Avishkar Abhiyan (see below), both of which
+focus on aspects of quality in education. Goals 2
+(Zero hunger), 3 (Good health and well-being) and
+6 (Clean water and sanitation) continue to be tackled
+through school-based initiatives such as the Midday
+Meal Programme (1995) and the Beti Bachao Beti
+Padhao programme (2014; see below) with its focus,
+among other things, on providing safe, adequate
+separate female toilets and clean drinking water.
+Goal 10 (Reduced inequalities) is also being
+addressed in education through continued support
+for SSA, and while challenges remain, particularly
+with regard to disadvantaged students, progress
+is also being made here. 148
+Sarva Shiksha Abhiyan and Rashtriya
+Madhyamik Shiksha Abhiyan
+Since 2000, two major initiatives have received
+significant funding: SSA, receiving an average of
+Rs 24,000 crore each year from 2012 to 2019, 149
+and Rashtriya Madhyamik Shiksha Abhiyan (RMSA;
+‘National Secondary Education Campaign’ in Hindi),
+the allocation for which has grown steadily from Rs
+3,172 crore in 2012–13 to 4,213 crore in 2018–19. 150
+SSA was launched in 2001, with the aims of achieving
+universal primary education through the provision
+of new schools, the strengthening of existing school
+facilities, increasing teacher capacity and support,
+and improving teaching-learning materials. 151 The
+RMSA programme was launched in 2009, aiming to
+achieve secondary gross enrolment ratios of 75 per
+cent within five years, universal access by 2017,
+and universal retention by 2020, and while the
+last of these is likely to take longer to achieve,
+significant progress has been made (see above).
+The programme has also included a focus on
+quality and equity.
+With regard to quality, key initiatives aim to improve
+pupil teacher ratios to 30:1, to provide effective
+in-service teacher training and development, to
+reform curricula and to improve science and ICT
+facilities in secondary schools. With regard to equity,
+key initiatives included aiming to give priority to
+areas with disadvantaged students for new schools,
+to increase female teacher numbers at secondary
+level, and to ensure there are separate toilet blocks
+for girls in all schools. 152 In 2018, an announcement
+147 https://www.indiabudget.gov.in/
+148 http://ris.org.in/sdg/india-and-sustainable-development-goals-way-forward
+149 https://union2018.openbudgetsindia.org/en/sectors/children/sarva-shiksha-abhiyan-ssa/
+150 http://pib.nic.in/newsite/PrintRelease.aspx?relid=187952
+151 https://www.aicte-india.org/reports/overview/Sarva-Shiksha-Abhiyan
+152 http://rmsaindia.gov.in/en/about-rmsa.html
+The school education system in India 37
+was made that the two initiatives would be merged
+under the umbrella of Samagra Shiksha Abhiyan,
+along with teacher education (see below).
+Rashtriya Avishkar Abhiyan
+Launched in 2015, Rashtriya Avishkar Abhiyan
+(‘National Invention Campaign’) aims to encourage
+greater enquiry, creativity and interest, specifically
+within the areas of science, mathematics and
+technology in education. 153 The campaign, which
+received Rs 198 crore in 2017–18, intends to
+create stronger links between schools and higher
+educational institutions through school mentoring
+programmes, student exchanges and development
+of science labs, linked to RMSA initiatives. 154
+Samagra Shiksha Abhiyan
+More recently, the Samagra Shiksha Abhiyan
+(‘Composite Education Campaign’), 155 launched
+in 2018 and allocated Rs 30,254 crore, 156 aims to
+bring together SSA and RMSA along with teacher
+education under one scheme that views education
+more holistically from preschool to higher secondary
+education. The focus on full access, quality education
+and greater equity and inclusion are continued in
+line with Sustainable Development Goal 4, along with
+vocational, digital and physical education elements
+and further strengthening of teacher education
+institutions. Local quality initiatives under Samagra
+Shiksha Abhiyan include the ‘Happiness Curriculum’
+launched in over 1,000 Delhi government schools in
+2018, 157 focusing on holistic, values-based education
+and mental health from preschool to upper primary
+levels, and the ‘Joyful Saturday’ initiative in Rajasthan
+in 2018. 158 This had similar aims, including developing
+values, honing creativity and play across all primary
+and secondary classes, with Rs 1,000 per school
+for provision of necessary resources.
+National Education Policy 2019
+The Draft NEP follows the initiative of Samagra
+Shiksha Abhiyan to create a more holistic, unified
+education system, with greater continuity, foci on
+longer free and compulsory education (from age
+three to 18), and a Foundation stage that ensures
+greater school readiness when children begin
+primary school. It proposes a reduction in core
+curriculum content to allow for subjects previously
+perceived as being co- or extra-curricular to be
+integrated into a curriculum that promotes a wider
+range of interests (including music, art and physical
+education) and provides for vocational subjects at
+higher levels. It also stresses a need to move away
+from rote learning and high-stakes exams towards
+more ‘constructivist’, ‘discovery-oriented’, ‘studentcentred’ pedagogy that involves more formative
+assessment of a wider range of cognitive, social
+and ‘21st century skills’.
+Other recent initiatives
+Other initiatives include a focus on girls’ education
+through the Beti Bachao Beti Padhao (literally
+‘Save girls, educate girls’) scheme, launched in
+2014, aiming both to celebrate the girl child and to
+ensure the survival, safety and education of girls.
+This included a commitment to building 100,000
+girls’ toilet and drinking water facilities in schools
+to benefit ten million girls in its initial phase, thereby
+reducing the number of female dropouts. 159 Provision
+for the modernisation of madrasas (traditional Muslim
+schools) has also been made through the Scheme
+to Provide Quality Education in Madrasas, 160 aiming
+to provide education at national standards to one
+million Muslim children, certified through the National
+Institute of Open Schooling (NIOS). Quality initiatives
+include the School Assessment Programme (2014–
+15, Rs 0.3 crore; 2018–19, Rs 0.7 crore 161), and the
+Pandit Madan Mohan Malviya’s Teacher Training
+Programme (2014–15, Rs 900 crore 162), which aims
+to benefit nearly 20,000 teacher trainees studying
+at teacher education institutions.
+153 https://mhrd.gov.in/rashtriya-avishkar-abhiyan
+154 www.pib.nic.in/Pressreleaseshare.aspx?PRID=1527326
+155 http://samagra.mhrd.gov.in/about.html
+156 http://samagra.mhrd.gov.in/docs/letter_240418.pdf
+157 http://vikaspedia.in/education/education-best-practices/promoting-activity-based-learning-through-happiness-curriculum-a-delhi-government-initiative
+158 http://vikaspedia.in/education/education-best-practices/joyful-saturday-initiative-by-the-rajasthan-government
+159 https://www.savethechildren.in/articles/five-education-initiatives-that-are-changing-india
+160 https://mhrd.gov.in/spqem
+161 http://pib.nic.in/newsite/PrintRelease.aspx?relid=187952
+162 https://mhrd.gov.in/sites/upload_files/mhrd/files/PMMNMTT%20English.pdf
+38 The school education system in India
+Figure 9: Organogram of apex and state-level organisations in school education system in India
+Ministry of Human Resource Development
+(Department of School Education and Literacy / Department of Higher Education)
+National Council for Educational
+Research and Training (NCERT) (New Delhi)
+National Institute of Education (New Delhi) Regional Institutes of Education
+Regional Institute
+of Education (RIE),
+Ajmer
+Regional Institute
+of Education (RIE),
+Bhopal
+19 departments,
+divisions and cells
+National Council for
+Teacher Education (NCTE) (New Delhi)
+Regional Committees
+Teacher Education Institutions (c. 14,000)
+Apex educational organisations in India
+The school education system in India 39
+Central Institute of Educational
+Technology (CIET), New Delhi
+Pandit Sunderlal Sharma Central Institute
+of Vocational Education (PSSCIVE), Bhopal
+University Grants
+Commission (UGC)
+Institutes
+of Advanced
+Studies in
+Education/
+Schools of
+Education
+Regional Institute
+of Education (RIE),
+Bhubaneshwar
+Regional Institute
+of Education (RIE),
+Mysuru
+North-East
+Regional Institute of
+Education (NE-RIE),
+Umiam (Meghalaya)
+Colleges of
+Teacher
+Education
+National
+University
+of Educational
+Planning and
+Administration
+Centrally Sponsored Scheme for
+Restructuring and Reorganisation
+of Teacher Education (New Delhi)
+State Councils of Educational Research and
+Training (SCERTs)
+District Institutes of Education and
+Training (DIETs)
+Block Resource Centres (BRCs)
+Cluster Resource Centres (CRCs)
+40 The school education system in India
+India functions as a federalised country, with 29
+states and seven union territories. Significant powers
+are allocated at state level for policy creation and
+implementation across all sectors. In 1976, education
+became a ‘concurrent subject’: the central and
+state governments both have responsibility for its
+development (NUEPA, 2014). In practice, this means
+that the central government develops overarching
+policy which the states adapt as necessary according
+to the context and create implementation plans.
+The Ministry of Human Resource Development has
+responsibility for education at the central level,
+with two departments: School education and literacy,
+and Higher education. To support these departments
+and the state governments, apex organisations have
+been established with specific responsibilities for
+different aspects of education. The sections below
+outline the main areas of focus for three of these
+bodies most relevant to the schools sector (see also
+Figure 9).
+National Council of Educational
+Research and Training
+NCERT 163 was set up by the government of India in
+1961 as an autonomous organisation registered
+under the Societies Registration Act (Act XXI
+of 1860) to advise and assist the formulation and
+implementation of policies and major programmes
+in the field of education. The major constituent units
+of NCERT are:
+1. National Institute of Education, New Delhi
+2. Central Institute of Educational Technology
+(CIET), New Delhi
+3. Pandit Sunderlal Sharma Central Institute
+of Vocational Education, Bhopal
+4. Regional Institute of Education, Ajmer
+5. Regional Institute of Education, Bhopal
+6. Regional Institute of Education, Bhubaneswar
+7. Regional Institute of Education, Mysuru
+8. North-East Regional Institute of Education,
+Umiam (Meghalaya).
+For realisation of its objectives, NCERT
+and its constituent units:
+● undertake, promote and co-ordinate research
+in areas related to school education
+● prepare and publish model textbooks,
+supplementary material, newsletters, journals
+and develop educational kits, multimedia
+digital materials, etc.
+● organise pre-service and in-service training
+of teachers
+● develop and disseminate innovative
+educational techniques and practices
+● collaborate and network with state educational
+departments, universities, NGOs and other
+educational institutions
+● act as a clearing house for ideas and information
+in matters related to school education
+● act as a nodal agency for achieving the goals
+of Universalisation of Elementary Education. 164
+NCERT is perhaps best recognised for its work in
+producing curriculum frameworks and textbooks,
+drawing on the NCF published in 2005. Most recently
+it has also been responsible for the implementation
+of the National Achievement Surveys – a
+standardised initiative first conducted in 2010.
+The latest iteration in 2017 involved over 2.2 million
+students in grades 3, 5 and 8 to measure learning
+outcomes across several subjects: mathematics,
+language, science and social studies.
+Within NCERT the constituent units as outlined
+above undertake a variety of responsibilities and
+activities. The National Institute of Education is
+composed of 19 different departments as shown
+in Table 2, all of which are located in Delhi. These
+departments function as ‘think-tanks’ and many
+focus on the production of teaching and learning
+resources – including, but not limited to, textbooks.
+In recent years there has been a significant increase
+in the development of e-resources and the use
+of technology in general (see section Technology
+in education in India for further details). The
+departments also carry out research and training
+programmes related to their area of focus.
+163 www.ncert.nic.in/index.html
+164 NCERT (2018).
+The school education system in India 41
+Table 2: National Institute of Education departments
+1. Department of education in science and mathematics
+2. Department of education of groups with special needs
+3. Department of educational psychology and foundations of education
+4. Department of teacher education
+5. Department of elementary education (includes focus on primary and ECE)
+6. Department of education in languages (content development focuses only on Hindi, English,
+Sanskrit and Urdu – Classes I–XII)
+7. Department of education in social sciences
+8. Department of education in arts and aesthetics
+9. Department of gender studies
+10. Division of educational research
+11. Educational survey division
+12. Division of educational kits (largely focused on science, technology, engineering and maths)
+13. Planning and monitoring division
+14. RMSA project cell (see also section Indian government education initiatives below)
+15. International relations division
+16. Department of curriculum studies
+17. Hindi cell
+18. Publication division
+19. Library and documentation division
+NCERT acts as a major agency for implementing
+bilateral cultural exchange programmes with other
+countries in the field of school education. NCERT also
+interacts and works with international organisations,
+visiting foreign experts and delegations to offer
+various training facilities to educational personnel
+from developing countries.
+Regional Institutes of Education
+The five Regional Institutes of Education are
+located in the north (Ajmer), west (Bhopal), east
+(Bhubaneswar), south (Mysuru) and northeast
+(Umiam) of the country. Their mandate is to provide
+training for both pre-service and in-service teachers
+although in practice they are predominantly focused
+on training pre-service teachers and/or ensuring
+that teachers already working in schools have got
+the minimum qualifications required for their
+employment. They are less involved with the
+continuing professional development aspect of
+in-service teacher education. The Regional Institutes
+of Education also have some responsibility for
+training administrative staff of the District Institutes
+of Education and Training and other more local
+bodies within their region.
+Central Institute of Educational Technology
+Established in 1984, CIET develops and promotes the
+use of edtech through a variety of modes including
+broadcast (radio/TV), satellite communications and
+online media. There have been a number of initiatives
+utilising satellite networks to bring educational
+content into schools across the country. ‘Extension
+of ICT resources among schools, students and
+teachers in every nook and corner of the country’
+is the motto of the division.165 CIET includes four main
+departments which focus on improving infrastructure
+for the use of technology in schools along with
+producing resources and training educators in how
+they can best be integrated in classrooms.
+165 NCERT (2018: 23).
+42 The school education system in India
+National Council for Teacher Education
+The NCTE 166 was originally (from 1973) a teacher
+education advisory body for the central and state
+governments, with its secretariat at NCERT. Following
+the development of the National Policy on Education
+(NPE) in 1986, the NCTE gained the necessary
+statutory status and resources to support more
+significant changes to the system of teacher
+education through the National Council for
+Teacher Education Act (No. 73 of 1993) in 1995.
+The NCTE supports the design and delivery of
+teacher education across the country, under the
+overarching National Framework for Teacher
+Education, published in 2010. At the ground level,
+its policies and approaches are largely implemented
+by resource persons working out of local bodies
+such as the Block Resource Centres and Cluster
+Resource Centres.
+The NCTE’s focus is mainly on ensuring norms
+and standards in relation to pre-service training
+are upheld by the large number of private and
+government institutions offering initial teacher
+training courses across the country. It maintains
+a database of recognised institutions (along with a
+list of recognised qualifications) on its website. This
+is challenging given the large numbers of institutions
+involved – 90 per cent are said to be privately run 167
+– and in the past the credibility of the NCTE has been
+affected by charges of corruption. 168
+With a focus on research as well as training, the
+NCTE’s policies and programmes relate to teachers
+at all levels of the system from schools to non-formal
+and adult education, to courses offered in a distance
+mode. NCTE has its headquarters in New Delhi
+and four Regional Committees at Bengaluru (south),
+Bhopal (west), Bhubaneswar (east) and Jaipur (north)
+to look after its statutory responsibilities.
+National Institute of Educational Planning
+and Administration
+NIEPA (also called NUEPA – ‘university’) was founded
+in 1962 when UNESCO established the Asian Regional
+Centre for Educational Planners, Administrators and
+Supervisors, which then became the Asian Institute
+of Educational Planning and Administration in 1965.
+This later merged with the National Staff College for
+Educational Planners and Administrators as its Asian
+Programmes Division in 1973. Subsequently, with
+the increasing role and functions of the National Staff
+College, particularly in capacity building, research
+and professional support services to the state
+governments, it became NIEPA in 1979.
+NIEPA was given the status of a university by the
+Ministry of Human Resource Development in 1956
+and it is therefore maintained by the government
+of India (as are all centrally governed universities).
+It conducts capacity building, research in planning
+and management of education not only in India but
+also in South Asia.
+NIEPA is organised into eight academic departments
+and three centres. Its academic departments are:
+1. Department of Educational Planning
+2. Department of Educational Administration
+3. Department of Educational Finance
+4. Department of Educational Policy
+5. Department of School and Non-Formal
+Education
+6. Department of Higher and Professional
+Education
+7. Department of Educational Management
+Information System
+8. Department of Training and Capacity Building
+in Education.
+There are three academic centres:
+1. National Centre for School Leadership
+2. Centre for Policy Research in Higher Education
+3. School Standards and Evaluation – Shaala Siddhi.
+Research and other activities are supported by a
+project management unit.
+166 www.ncte-india.org
+167 Vijaysimha (2013).
+168 http://indianexpress.com/article/news-archive/web/tainted-national-council-for-teacher-education-chief-to-be-shunted-out/
+The school education system in India 43
+Educational boards in India
+National boards
+State government boards
+State government boards are regulated and
+supervised by the Department of School Education
+with support from the SCERT, the nodal body
+responsible for secondary and senior secondary
+education in each state. The majority of Indian
+schools are affiliated with state government boards.
+The oldest state board is in Uttar Pradesh – the
+Uttar Pradesh Board of High School and Intermediate
+Education, established in 1922 as an autonomous
+body under the Department of Education. Uttar
+Pradesh, as the most populous state, has the
+highest number of state board schools, followed
+by Madhya Pradesh, Rajasthan, Andhra Pradesh
+and Maharashtra.
+The Central Board of Secondary Education
+Established in 1962 under the purview of MHRD,
+the CBSE provides affiliations both to public and
+private schools. 169 In 2019, over 21,000 schools were
+affiliated under the CBSE, up from around 15,000
+in 2014. 170 The board conducts final examinations,
+including the AISSC at Grade 10, and the AISSCE at
+Grade 12. It also annually conducts the AIEEE 171 and
+AIPMT 172/NEET-UG173 examinations for admission
+to undergraduate courses in engineering (and
+architecture) and medicine in numerous colleges
+across India. The CBSE is recognised by the Indian
+government and by most of the universities and
+colleges in India. There is also an international
+CBSE offered to expatriate students.
+The Council of Indian School
+Certificate Examinations
+The Council of Indian School Certificate Examinations
+(CISCE) conducts the ICSE (Indian School Certificate
+Examinations, at Grade 10) and Indian School
+Certificate (at Grade 12) examinations in India. Over
+2,100 schools were affiliated with the privately run
+CISCE, up from around 1,900 in 2014. 174 Established
+in 1956, the board was initially created to administer
+the University of Cambridge Local Examinations
+Syndicate’s Examinations in India. It was later
+recognised as a public examination board by the
+Delhi Education Act, 1973.
+National Institute of Open Schooling
+NIOS is the board responsible for distance education
+under the government of India. 175 It was established
+by the MHRD in 1989 (previously known as the
+National Open School) to provide low-cost, quality
+education to learners in rural and remote areas
+of the country. It provides a range of vocational,
+life-enrichment and community-oriented courses
+in addition to general and academic courses at
+secondary and senior secondary level. According
+to the NIOS website, there were 3,530 accredited
+institutes, 1,379 vocational centres and 1,313
+accredited agencies in 2019 (compared to 3,827,
+1,830 and 690 respectively in 2014). 176 It enrols
+around 350,000 students annually, with 2.71 million
+students ‘currently’ enrolled according to its
+website, making it the largest open schooling
+system in the world. 177
+169 http://cbse.nic.in/
+170 http://cbseaff.nic.in/cbse_aff/schdir_Report/userview.aspx
+171 All India Engineering Entrance Examination.
+172 All India Pre-Medical Test.
+173 National Eligibility Entrance Test – Undergraduate.
+174 https://timesofindia.indiatimes.com/home/education/cisce-cuts-pass-marks-for-boards/articleshow/61827357.cms
+175 www.nios.ac.in
+176 https://www.nios.ac.in/media/documents/NIOS%20PROFILE%20FINAL_Curve_English.pdf
+177 https://www.nios.ac.in/about-us/profile.aspx
+44 The school education system in India
+International boards
+International Baccalaureate Organisation
+The International Baccalaureate Organisation (IBO)
+was founded in 1968 as an international, nongovernmental, non-profit educational organisation
+based in Geneva, Switzerland. 178 International
+Baccalaureate (IB) World Schools in India offer three
+IB programmes – the Primary Years Programme,
+the Middle Years Programme and the IB Diploma
+Programme. According to the IBO website, there
+were 167 IB World Schools in India (up from 109
+in 2014), offering one or more of the three IB
+programmes. Eighty-nine schools offer the Primary
+Years Programme, 34 schools offer the Middle Years
+Programme and 135 schools offer the Diploma
+Programme. The IB is recognised by the Association
+of Indian Universities as an entry qualification
+(equivalent to +2 qualification of an Indian Board)
+to all universities in India.
+Cambridge Assessment International Education
+Cambridge Assessment International Education
+(CAIE) is a provider of international qualifications
+offering examinations and qualifications to 10,000
+schools in 160 countries (2019 figures). 179 It is an
+examination board under Cambridge Assessment,
+founded in 1858 as a department of the University
+of Cambridge. There are over 400 Cambridge
+schools in India, up from 310 in 2014, making over
+50,000 examination entries for Cambridge IGCSE,
+‘the world’s most popular international qualification
+for 14 to 16-year olds’, according to their website, 180
+and Cambridge International AS- and A-Levels,
+offering 55 subjects to enable learners to gain
+university places. 181
+The Council of Boards of School Education
+The Council of Boards of School Education (COBSE) 182
+is a voluntary association of all the Boards of School
+Education in India. It works in close collaboration
+with the Ministry of Human Resource Development,
+government of India, other national-level educational
+organisations and agencies including NCERT, NUEPA
+and NCTE (see above).
+COBSE was established in 1979 by the CBSE to
+provide a forum for discussion and mutual learning.
+Since 1989, it has functioned as an independent
+secretariat. It had 62 members in 2019 (up from 51
+in 2014 – see list in Appendix 2), 183 with some foreign
+boards recognised as its associate members
+(including Edexcel in the UK). 184
+The major functions of COBSE are:
+● to provide a forum to its members to
+discuss issues related to quality in education
+● to conduct curriculum reform and bring
+about improvements in evaluation systems
+● to respond to national concerns like population,
+education and disaster management
+● to provide opportunities for professional
+development of officers of the member boards
+● to interact with NCERT and NUEPA
+on professional issues.
+178 www.ibo.org
+179 See www.cie.org.uk and https://www.cambridgeinternational.org/about-us/what-we-do/
+180 https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-secondary-2/cambridge-igcse/
+181 https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-advanced/cambridge-international-as-and-a-levels/
+182 www.cobse.org
+183 www.cobse.org/member7.htm
+184 www.cobse.org/aboutus.htm
+The school education system in India 45
+Looking to the future
+This report was written shortly after the Draft NEP
+was released, and as such, it marks an important
+moment in both the history and future of school
+education in India. Given the extensive diversity of
+contexts and challenges for schooling in a country
+with one of the longest histories of education in the
+world, the achievements made so far should not be
+underestimated. These include India’s success in
+providing access to schooling to some of the most
+remote and socio-economically disadvantaged
+peoples in the world, its commitment to equity,
+its continued recognition and promotion of
+multilingualism, and its ability to embrace a wide
+range of schooling solutions with a single system.
+These threads are continued and reinforced in
+the Draft NEP, which now directs attention to
+continuity, pluralism and national identity, and
+also re-emphasises India’s historical interest in the
+moral and civil development of its learners. 185 It
+also pledges to extend free compulsory schooling
+to an ambitious 15 years in total, underlining India’s
+commitment to its investment in future generations.
+While this report makes no attempt to predict the
+future of school education in India, recent signs
+that emphases on quality over the last decade are
+starting to pay dividends 186 indicate that the future
+is promising. The government’s commitment to
+re-enter the Programme for International Student
+Assessment in 2021 demonstrates a confidence that
+progress is being made and an ambition for India
+to have an education system that can compete
+on the world stage.
+Rather than introducing a radical overhaul of the
+system, any incipient changes will need to build
+on both gradual achievements that can all too
+easily go unnoticed as well as its many recent
+notable successes. Public–private partnerships
+are increasingly common within the sector, and it
+is clear that there are a wide range of organisations
+and actors who share a similar vision for the
+improvement of the education system alongside
+the national and state governments. By continuing
+to work together, the vision for India’s economic
+growth and opportunities for individuals to achieve
+their aspirations and live to their full potential can
+be realised.
+185 cf. Ministry of Human Resource Development (2019: 96–99) and Kumar (2005).
+186 Chavan (2019).
+46 References
+References
+Ahsan, MN, Banerjee, R and Hari, S (2018) Social
+Promotion and Learning Outcomes: Evidence from
+India. Available online at: https://www.isid.ac.in/~epu/
+acegd2018/papers/SiddharthHari.pdf
+Akhtar, A (2017) Opportunities and Challenges of
+In-service Teacher Training of Science at Upper
+Primary Level in the State of Uttarakhand: Some
+Reflections. Almora: Azim Premji Foundation.
+Anderson, J (2015) Teaching English in Africa. Nairobi:
+East African Educational Publishers.
+Anderson, J (2019) ‘Recentring ELT: India at the
+centre of the multilingual turn?’, in ELTAI: An Academic
+Journey of 50 years. Chennai, ELTAI (forthcoming).
+Anderson, J and Lightfoot, A (2018) Translingual
+practices in English classrooms in India: current
+perceptions and future possibilities. International
+Journal of Bilingual Education and Bilingualism
+(advance access). DOI: https://doi.org/10.1080/13670
+050.2018.1548558
+ASER (2019) Annual Status of Education Report (Rural)
+2018 Provisional. New Delhi: ASER Centre.
+Bambawale, M, Hughes, J and Lightfoot, A (2018)
+Exploring Teacher Evaluation Processes and Practices
+in India: A Case Study. New Delhi: British Council.
+Banerji, R (2019) ‘Behind the headlines’, in ASER (ed)
+Annual Status of Education Report (Rural) 2018
+Provisional. New Delhi: ASER Centre, 13–16.
+Bhattacharjea, S and Ramanujan, P (2019)
+‘The early years’, in ASER (ed) Annual Status
+of Education Report (Rural) 2018 Provisional.
+New Delhi: ASER Centre, 20–23.
+Bhattacharyya, R (2019) ‘A fitter future’, in ASER (ed)
+Annual Status of Education Report (Rural) 2018
+Provisional. New Delhi: ASER Centre, 24–26.
+Borah, MP (2018) ‘English for beginners in multiple
+mother tongue classroom contexts in primary
+schools’, in Tomlinson, B and Keedwell, A (eds)
+Explorations: Teaching and Learning English in India.
+Issue 10: Using Inclusive Practices and Multilingual
+Approaches (2). Kolkata: British Council, 19–31.
+Brinkmann, S (2015) Learner-centred education
+reforms in India: The missing piece of teachers’
+beliefs. Policy Futures in Education 13/3: 342―359.
+British Council (2016) English in Education: Bihar State
+Profile – India. New Delhi: British Council.
+Bruner, J (1996) The Culture of Education. Cambridge:
+Harvard University Press.
+Central Square Foundation (2013) School
+Management Committees: Insights, Challenges and
+Way Forward: An Overview of Seminar Sessions and
+Discussions. New Delhi: Central Square Foundation.
+Available online at: http://righttoeducation.in/sites/
+default/files/School%20Management%20
+Committees%20-%20Insights%2C%20
+Challenges%20and%20Way%20Forward.pdf
+Chavan, M (2019) ‘Something is changing…’, in ASER
+(ed) Annual Status of Education Report (Rural) 2018
+Provisional. New Delhi: ASER Centre, 9–12.
+Chudgar, A and Quin, E (2012) Relationship between
+private schooling and achievement: Results from
+rural and urban India. Economics of Education Review
+31: 376―390.
+Coleman, H (2011) Dreams and Realities: Developing
+Countries and the English Language. London:
+British Council.
+CREATE (2011) Effective School Management
+Committees: CREATE India Policy Brief 4, February
+2011. Available online at: http://righttoeducation.in/
+sites/default/files/India_Policy_Brief_4.pdf
+Darling-Hammond, L (2012) Creating a
+Comprehensive System for Evaluating and Supporting
+Effective Teaching. Stanford: Stanford Center for
+Opportunity Policy in Education.
+Erling, EJ, Adinolfi, L and Hultgren, AK (2017)
+Multilingual Classrooms – Opportunities and
+Challenges for English Medium Instruction in Low and
+Middle Income Contexts. London/Milton Keynes/
+Reading: British Council/Open University/Education
+Development Trust.
+References 47
+Gandhi Kingdon, G (2007) The progress of school
+education in India. Oxford Review of Economic Policy
+23/2: 168―195.
+Gandhi Kingdon, G (2017) The Private Schooling
+Phenomenon in India: A Review. IZA Discussion Paper
+No. 10612. Bonn: IZA – Institute of Labor Economics.
+Available online at: http://ftp.iza.org/dp10612.pdf
+Government of India (2012) The Constitution of India.
+Available online at: https://www.india.gov.in/mygovernment/constitution-india/constitution-india-fulltext
+Graddol, D (2010) English Next India. New Delhi:
+British Council.
+Hegde, AV and Cassidy, DJ (2009) Teachers’ beliefs
+and practices regarding developmentally appropriate
+practices: A study conducted in India. Early Child
+Development and Care 179/7: 837―847. DOI: https://
+doi.org/10.1080/03004430701536491
+Kaul, V, Bhattacharjea, S, Chaudhary, AB, Ramanujan,
+P, Banerji, M and Nanda, M (2017) The India Early
+Childhood Education Impact Study. New Delhi: UNICEF.
+Kumar, K (2005) Political Agenda of Education: A Study
+of Colonialist and Nationalist Ideas (2nd edition). New
+Delhi: Sage.
+Kundu, A (2011) Trends and processes of urbanisation
+in India. Urbanisation and emerging population issues
+6. New York: International Institute for Environment
+and Development (IIED) and Population and
+Development Branch, United Nations Population
+Fund (UNFPA).
+McIlwraith, H (2013) Multilingual Education in Africa:
+Lessons from the Juba Language in Education
+Conference. London: British Council.
+Meganathan, R (2011) ‘Language policy in education
+and the role of English in India: From library language
+to language of empowerment’, in Coleman, H (ed)
+Dreams and Realities: Developing Countries and the
+English Language. London: British Council, 57–86.
+Meganathan, R (2017) English language curriculum at
+the secondary stage: Perceptions of learners and
+teachers. Journal of Indian Education 42/4: 93―118.
+Ministry of Human Resource Development (2017)
+Guideline: Strengthening District Institutes of
+Education and Training. New Delhi: National Council
+for Teacher Education.
+Ministry of Human Resource Development (2019)
+Draft National Education Policy. New Delhi: Ministry of
+Human Resource Development.
+Ministry of Law and Justice (2009) Right of Children
+to Free and Compulsory Education Act, 2009. New
+Delhi: Ministry of Law and Justice. Available online at:
+http://righttoeducation.in/sites/default/files/
+Right%20of%20Children%20to%20Free%20and%20
+Compulsory%20Education%20Act%202009%20
+%28English%29%20%28Copiable_Searchable%29.
+pdf#overlay-context
+Mody, R (2013) Needs Analysis Report: Maharashtra
+English Language Initiative for Secondary Schools
+(ELISS). Mumbai: British Council.
+Motteram, G (2017) Teaching and Technology: Case
+Studies from India. British Council/Central Square
+Foundation. Available online at: https://www.
+britishcouncil.in/continuing-professionaldevelopment
+Muralidharan, K and Sheth, K (2016) Bridging
+education gender gaps in developing countries: The
+role of female teachers. Journal of Human Resources
+51: 269―297.
+NCERT (2005) National Curriculum Framework.
+New Delhi: National Council of Educational Research
+and Training.
+NCERT (2018) NCERT Annual Report 2017–2018. New
+Delhi: National Council of Educational Research and
+Training. Available online at: www.ncert.nic.in/pdf/
+Annual_report_17_18.pdf
+NCTE (2009) National Curriculum Framework for
+Teacher Education. New Delhi: NCTE.
+48 References
+NUEPA (2014) Secondary Education in India: Progress
+Towards Universalisation. New Delhi: National
+University of Educational Planning and
+Administration.
+Pandey, S (2011) Professionalization of Teacher
+Education in India – A Critique of Teacher Education
+Curriculum Reforms and its Effectiveness.
+Conference Paper.
+Parnham, P, Gholkar, R and Borg, S (2018) Using
+WhatsApp for peer support in a mentoring
+programme. The Teacher Trainer 32/1: 2–7.
+Parruck, RC and Ghosh, A (2014) Indian School
+Education System: An Overview. New Delhi:
+British Council.
+Pritchett, L and Beatty, A (2012) The Negative
+Consequences of Overambitious Curricula in
+Developing Countries. CGD Working Paper 293.
+Washington, DC: Centre for Global Development.
+Available online at: https://www.cgdev.org/
+publication/negative-consequences-overambitiouscurricula-developing-countries-working-paper-293
+RMSA Technical Cooperation Agency (2015a) Equity
+and Efficiency in Expansion of Secondary Schools:
+Research Report III. New Delhi: MHRD.
+RMSA Technical Cooperation Agency (2015b)
+Guidelines for Teacher Continuous Professional
+Development for RMSA. New Delhi: MHRD.
+RMSA Technical Cooperation Agency (2016a) Private
+Tuition: Extent, Pattern and Determinants: Research
+Report VII. New Delhi: MHRD.
+RMSA Technical Cooperation Agency (2016b) RMSA
+Teacher In-service Training Evaluation: Summary
+Report. New Delhi: MHRD.
+Saraf, A and Deshmukh, K (2018) To fail or not to fail?
+Unpublished research study. Indian Institute of
+Management Ahmedabad.
+Simpson, J (2017) English Language and Medium of
+Instruction in Basic Education in Low- and Middleincome Countries: A British Council Perspective.
+London: British Council.
+Srinivasan, R (2016) Teaching about teaching:
+Examining the pedagogy of teacher education in
+India. Higher Education for the Future 3/2: 197―212.
+Sriprakash, A (2012) Pedagogies for Development:
+The Politics and Practice of Child-centred Education
+in India. Dordrecht: Springer.
+Trucano, M (2015) Will technology replace teachers?
+No, but… EduTech World Bank. Available online at:
+https://blogs.worldbank.org/edutech/tech-andteachers
+UNESCO (2015) Education 2030 Incheon Declaration
+and Framework for Action. Available online at: http://
+uis.unesco.org/sites/default/files/documents/
+education-2030-incheon-framework-for-actionimplementation-of-sdg4-2016-en_2.pdf
+UNICEF (2015) Evaluation of Activity-Based Learning
+as a Means of Child-Friendly Education: Final Report.
+New Delhi: UNICEF. Available online at: https://www.
+unicef.org/evaldatabase/files/EI-UNICEF_Evaluation_
+of_ABL_as_a_means_of_child-friendly_educationFinal_Report_India_2015-024.pdf
+Vijaysimha, I (2013) Teachers as Professionals:
+Accountable and Autonomous? Review of the Report
+of the Justice Verma Commission on Teacher
+Education, August 2012. Contemporary Education
+Dialogue 10/2: 293–299.
+Wadhwa, W (2010) ‘Are private schools really
+performing better than government schools?’, in
+ASER (ed) Annual Status of Education Report (Rural)
+2009 Provisional. New Delhi: ASER Centre, 6–8.
+Wadhwa, W (2019) ‘Equity in learning?’, in ASER (ed)
+Annual Status of Education Report (Rural) 2018
+Provisional. New Delhi: ASER Centre, 17–19.
+Appendices 49
+Appendices
+Appendix 1: Comparative study of CBSE, CISCE, IB and CIE education boards in India
+Programme structure National Boards: CBSE
+Grades and ages Curriculum Assessment Key subjects taught
+1–8 (ages 6–14) No prescribed syllabus
+from board, but
+recommends syllabus laid
+down by NCERT
+Internal assessment
+conducted by the teachers
+(no formal periodic tests,
+no awarding of grades or
+marks for primary levels;
+no detention till Grade 8)
+Languages, Env. Studies
+(Science and Social
+Science integrated),
+Mathematics
+9, 10 (ages 14–16) Syllabus as prescribed by
+the CBSE
+Grade 9 – Internal
+assessment in accordance
+with the guidelines of
+the Continuous and
+Comprehensive Evaluation
+(CCE) system
+Grade 10 (having higher
+secondary levels) – Internal
+assessment; students are
+provided a Certificate of
+School Based Assessment
+Grade 10 (secondary
+schools, or for students
+who wish to move out
+of the CBSE system) –
+External assessment
+(AISSE examination)
+Mathematics, Social
+Studies, Science, English
+and one other language as
+compulsory and one out of
+Information Education,
+Home Science and Physical
+Education as optional
+11, 12 (ages 16–18) Syllabus as prescribed by
+the CBSE
+Grade 11 – Internal
+assessment conducted
+by the teachers
+Grade 12 – External
+assessment in the form
+of AISSCE examination
+Various combinations of
+subjects as per interest
+50 Appendices National Boards: CISCE
+Grades and ages Curriculum Assessment Key subjects taught
+1–8 (ages 6–14) No prescribed syllabus
+from board, but
+recommends the InterState Board for Anglo
+Indian Education
+Internal assessment
+with annual examinations
+conducted at the
+school level
+English, Env. Edu,
+Maths, Science (Physics,
+Chemistry, Biology)
+9, 10 (ages 14–16) Syllabus as prescribed
+by the CISCE
+Grade 9 – Internal
+assessment with annual
+examinations conducted
+at the school level
+Grade 10 – Internal and
+external assessments (ICSE
+examination)
+Compulsory subjects:
+English, 2nd language,
+History, Civics, Geography,
+Environmental Education,
++ 3 electives to be chosen
+from a list of courses
+11, 12 (ages 16–18) Syllabus as prescribed
+by the CISCE
+Grade 11 – Internal
+assessment with annual
+examinations conducted
+at the school level
+Grade 12 – Internal and
+external assessments (ISC
+examination)
+Compulsory subjects:
+English and Environmental
+Education, + 3, 4 or 5
+electives to be chosen
+from the list of courses
+International Boards: International Baccalaureate Organisation
+Grades and ages Curriculum Assessment Key subjects taught
+Primary Years
+Programme (ages
+3–12)
+Curriculum prescribed
+by IBO
+Internal assessment with a
+continuous evaluation and
+conducted by the teachers
+based on certain predecided criterion
+(by the IB)
+Language; Mathematics;
+Science; Social Studies;
+Arts; Personal, Social and
+Physical Education
+Middle Years
+Programme (ages
+11–16)
+Curriculum prescribed
+by IBO
+Internal assessment with a
+continuous evaluation and
+conducted by the teachers
+based on certain predecided criterion
+(by the IB)
+Languages (2), Humanities,
+Sciences, Mathematics,
+Arts, Physical Education,
+Technology
+Diploma Programme
+(ages 16–19)
+Curriculum prescribed
+by IBO
+External assessment in
+the form of examinations
+conducted at the end
+of the diploma program.
+These are marked by
+external examiners.
+Marks are awarded from
+1 (lowest) to 7 (highest) for
+each subject. A minimum
+of 24 points is required
+for the student to receive
+the diploma certificate
+One subject from each
+of the following groups –
+Languages, Individuals and
+Societies, Experimental
+Sciences, Arts, Mathematics
+and Computer Science
+Appendices 51
+International Boards: Cambridge Assessment International Education
+Grades and ages Curriculum Assessment Key subjects taught
+Primary (ages 5–11) Curriculum prescribed
+by CAIE
+Cambridge Primary
+Progression Tests
+(marked in school)
+Cambridge Primary
+Checkpoint (marked by
+Cambridge examiners)
+Mathematics, English
+and Science
+Global perspectives ICT
+Lower secondary I
+(ages 11–14)
+Curriculum prescribed
+by CAIE
+Cambridge Lower
+secondary
+Progression Tests (marked
+in school)
+Cambridge Lower
+secondary Checkpoint
+(marked by Cambridge
+examiners)
+Mathematics, English
+and Science
+Global perspectives
+ICT
+Upper secondary –
+IGCSE, O-level (ages
+14–16)
+Curriculum prescribed
+by CAIE
+Assessments include
+written, oral, coursework
+and practical assessment.
+Grading provided using
+eight internationally
+recognised grades, A* to G
+(six grades for O-level),
+with clear guidelines
+to explain standard
+of achievement for
+each. Marks and
+percentage provided
+for Indian learners
+Over 70 subjects offered
+(40 subjects for O-level)
+divided into five groups
+Advanced – A-/
+AS-levels, Pre-U (ages
+16–19)
+Curriculum prescribed
+by CIE
+AS-level only
+(syllabus content is
+half that of A-level)
+‘Staged’ assessment route
+All papers of A-level course
+in the same examination
+session, usually at the end
+of the course
+About 55 subjects offered
+(for A/AS); 26 subjects
+offered for Pre-U
+52 Appendices
+Appendix 2: COBSE member boards
+The following is the list of member boards of COBSE.
+1. Board of Intermediate Education,
+Andhra Pradesh
+2. Board of Secondary Education, Andhra Pradesh
+3. AP Open School Society, Andhra Pradesh
+4. Assam Higher Secondary Education Council
+5. Board of Secondary Education, Assam
+6. Assam Sanskrit Board
+7. State Madrassa Education Board, Assam
+8. Aligarh Muslim University Board of Secondary
+and Senior Secondary Education, Aligarh
+9. Bihar School Examination Board
+10. Bihar Board of Open Schooling and Examination
+11. Bihar State Madrasa Education Board
+12. Bihar Sanskrit Shiksha Board
+13. Banasthali Vidyapith
+14. Central Board of Secondary Education
+15. Chhatisgarh Board of Secondary Education
+16. Chhatisgarh State Open School
+17. Chhatisgarh Sanskrit Board, Raipur
+18. Chhatisgarh Madrasa Board
+19. Council for The Indian School
+Certificate Examinations
+20. Dayalbagh Educational Institute
+(Deemed University)
+21. Goa Board of Secondary and
+Higher Secondary Education
+22. Gujarat Secondary and Higher Secondary
+Education Board
+23. Board of School Education, Haryana
+24. Gurukula Kangri Vishwavidyalaya
+25. Himachal Pradesh Board of School Education
+26. Jammu and Kashmir State
+Board of School Education
+27. Jharkhand Academic Council, Ranchi
+28. Government of Karnataka Department
+of Pre-University Education
+29. Karnataka Secondary Education
+Examination Board
+30. Kerala Board of Public Examination
+31. Kerala Board of Higher Secondary Education
+32. Board of Vocational Higher Secondary
+Education, Kerala
+33. Maharashtra State Board of Secondary
+and Higher Secondary Education
+34. Board of Secondary Education Madhya Pradesh
+35. Madhya Pradesh State Open School
+Education Board
+36. Maharishi Patanjali Sanskrit Sansthan
+(Department of School Education,
+Government of Madhya Pradesh)
+37. Board of Secondary Education, Manipur
+38. Council of Higher Secondary Education, Manipur
+39. Meghalaya Board of School Education
+40. Mizoram Board of School Education
+41. Nagaland Board of School Education
+42. National Institute of Open Schooling
+43. Council of Higher Secondary Education, Odisha
+44. Board of Secondary Education, Odisha
+45. Punjab School Education Board
+46. Board of Secondary Education, Rajasthan
+47. Rajasthan State Open School, Jaipur
+48. Rashtriya Sanskri Sansthan
+49. State Board of School Examinations and Board
+of Higher Secondary Examinations, Tamil Nadu
+Appendices 53
+50. Telangana State Board of Intermediate
+Education, Nampally, Hyderabad
+51. Board of Secondary Education, Telangana
+52. Telangana Open School Society
+53. Tripura Board of Secondary Education
+54. Uttar Pradesh Board of High School and
+Intermediate Education
+55. Uttar Pradesh Secondary Sanskrit
+Education Council
+56. Board of School Education, Uttarakhand
+57. Uttarakhand Sanskrit Shiksha Parishad
+58. West Bengal Board of Secondary Education
+59. Uttarakhand Madrasa Education Board
+60. West Bengal Council of Higher
+Secondary Education
+61. West Bengal Board of Primary Education
+62. West Bengal Board of Madrasah Education
+63. The West Bengal Council of Rabindra
+Open Schooling
+COBSE associate members
+1. National Examinations Board, Nepal
+2. Mauritius Examinations Syndicate,
+Reduit Mauritius
+3. Bhutan Council for School Examinations
+and Assessment
+4. The Aga Khan University Examination Board,
+Karachi, Pakistan
+5. Inter Board Committee of Chairmen,
+Islamabad, Pakistan
+6. Cambridge International Examinations, UK
+7. Edexcel, London, UK
+8. International Baccalaureate, Singapore
+All images © British Council
+ISBN 978-0-86355-944-0
+© British Council 2019/K057
+The British Council is the United Kingdom’s international organisation for cultural relations and educational opportunities.
+India is home to the largest and most complex education system in the world.
+This report provides an overview of this system, including key facts and
+figures on the school sector, outlines of schooling at each level, language
+in education policy and practice, and teacher education. It also provides a
+brief history of recent education policies, main government initiatives since
+independence and details of the major national and international boards of
+school education. Recent successes and ongoing challenges in the education
+sector are also documented and discussed, making it of use to readers seeking
+to understand both the development of education in India since independence
+and its future trajectory.
